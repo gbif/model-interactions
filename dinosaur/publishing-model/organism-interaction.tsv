@@ -1,0 +1,17 @@
+event_id	subject_organism_id	interaction_type	interaction_type_id	object_organism_id
+evt001	sub001	preys on	http://purl.obolibrary.org/obo/RO_0002439	obj001
+evt002	sub002	eats	http://purl.obolibrary.org/obo/RO_0002470	obj002
+evt003	sub003	eats	http://purl.obolibrary.org/obo/RO_0002470	obj003
+evt004	sub004	preys on	http://purl.obolibrary.org/obo/RO_0002439	obj004
+evt005	sub005	eats	http://purl.obolibrary.org/obo/RO_0002470	obj005
+evt006	sub006	preys on	http://purl.obolibrary.org/obo/RO_0002439	obj006
+evt007	sub007	preys on	http://purl.obolibrary.org/obo/RO_0002439	obj007
+evt008	sub008	eats	http://purl.obolibrary.org/obo/RO_0002470	obj008
+evt009	sub009	eats	http://purl.obolibrary.org/obo/RO_0002470	obj009
+evt010	sub010	eats	http://purl.obolibrary.org/obo/RO_0002470	obj010
+evt011	sub011	eats	http://purl.obolibrary.org/obo/RO_0002470	obj011
+evt012	sub012	eats	http://purl.obolibrary.org/obo/RO_0002470	obj012
+evt013	sub013	eats	http://purl.obolibrary.org/obo/RO_0002470	obj013
+evt014	sub014	eats	http://purl.obolibrary.org/obo/RO_0002470	obj014
+evt015	sub015	eats	http://purl.obolibrary.org/obo/RO_0002470	obj015
+evt016	sub016	eats	http://purl.obolibrary.org/obo/RO_0002470	obj016

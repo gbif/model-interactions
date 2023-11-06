@@ -1,0 +1,33 @@
+organism_id	organism_scope	organism_name	organism_remarks	verbatim_identification	scientific_name	kingdom	taxon_rank
+sub001				Tyrannosaurus rex	Tyrannosaurus rex	Animalia	species
+sub002				Tyrannosaurus rex	Tyrannosaurus rex	Animalia	species
+sub003				Tyrannosaurus rex	Tyrannosaurus rex	Animalia	species
+sub004				Velociraptor mongoliensis	Velociraptor mongoliensis	Animalia	species
+sub005				Tarbosaurus bataar	Tarbosaurus bataar	Animalia	species
+sub006				Tyrannosaurus rex	Tyrannosaurus rex	Animalia	species
+sub007				Compsognathus longipes	Compsognathus longipes	Animalia	species
+sub008				Deinonychus antirrhopus	Deinonychus antirrhopus	Animalia	species
+sub009				Baryonyx walkeri	Baryonyx walkeri	Animalia	species
+sub010				Baryonyx walkeri	Baryonyx walkeri	Animalia	species
+sub011				Microraptor gui	Microraptor gui	Animalia	species
+sub012				Sinocalliopteryx gigas	Sinocalliopteryx gigas	Animalia	species
+sub013				Sinocalliopteryx gigas	Sinocalliopteryx gigas	Animalia	species
+sub014				Repenomamus robustus	Repenomamus robustus	Animalia	species
+sub015				Daspletosaurus	Daspletosaurus	Animalia	genus
+sub016				Deinosuchus	Deinosuchus	Animalia	genus
+obj001				Edmontosaurus	Edmontosaurus	Animalia	ganus
+obj002				Triceratops	Triceratops	Animalia	genus
+obj003				Edmontosaurus	Edmontosaurus	Animalia	genus
+obj004				Protoceratops andrewsi	Protoceratops andrewsi	Animalia	species
+obj005				Deinocheirus mirificus	Deinocheirus mirificus	Animalia	species
+obj006				Edmontosaurus annectens	Edmontosaurus annectens	Animalia	species
+obj007				Bavarisaurus	Bavarisaurus	Animalia	genus
+obj008				Tenontosaurus tilletti	Tenontosaurus tilletti	Animalia	species
+obj009				Lepidotes	Lepidotes	Animalia	genus
+obj010				Iguanodon	Iguanodon	Animalia	genus
+obj011				Enantiornithes	Enantiornithes	Animalia	genus
+obj012				Sinornithosaurus	Sinornithosaurus	Animalia	genus
+obj013				Confuciusornis sanctus	Confuciusornis sanctus	Animalia	species
+obj014				Psittacosaurus	Psittacosaurus	Animalia	genus
+obj015				Hadrosauridae	Hadrosauridae	Animalia	family
+obj016				Hadrosauridae	Hadrosauridae	Animalia	family
