@@ -1,0 +1,63 @@
+organism_id	organism_scope	organism_name	organism_remarks	verbatim_identification	scientific_name	kingdom	taxon_rank
+subj_001	individual			Pfaffia tuberosa 	Pfaffia tuberosa 	Plantae	species
+subj_002	individual			Pfaffia tuberosa 	Pfaffia tuberosa 	Plantae	species
+subj_003	individual			Pfaffia tuberosa 	Pfaffia tuberosa 	Plantae	species
+subj_004	individual			Pfaffia tuberosa 	Pfaffia tuberosa 	Plantae	species
+subj_005	individual			Pfaffia tuberosa 	Pfaffia tuberosa 	Plantae	species
+subj_006	individual			Lithrea brasiliensis	Lithrea brasiliensis	Plantae	species
+subj_007	individual			Lithrea brasiliensis	Lithrea brasiliensis	Plantae	species
+subj_008	individual			Lithrea brasiliensis	Lithrea brasiliensis	Plantae	species
+subj_009	individual			Lithrea brasiliensis	Lithrea brasiliensis	Plantae	species
+subj_010	individual			Lithrea brasiliensis	Lithrea brasiliensis	Plantae	species
+subj_011	individual			Lithrea brasiliensis	Lithrea brasiliensis	Plantae	species
+subj_012	individual			Eryngium sanguisorba	Eryngium sanguisorba	Plantae	species
+subj_013	individual			Eryngium sanguisorba	Eryngium sanguisorba	Plantae	species
+subj_014	individual			Eryngium sanguisorba	Eryngium sanguisorba	Plantae	species
+subj_015	individual			Ilex dumosa	Ilex dumaleosa	Plantae	species
+subj_016	individual			Ilex dumosa	Ilex dumaleosa	Plantae	species
+subj_017	individual			Butia capitata	Butia capitata	Plantae	species
+subj_018	individual			Butia capitata	Butia capitata	Plantae	species
+subj_019	individual			Butia capitata	Butia capitata	Plantae	species
+subj_020	individual			Butia capitata	Butia capitata	Plantae	species
+subj_021	individual			Butia capitata	Butia capitata	Plantae	species
+subj_022	individual			Butia capitata	Butia capitata	Plantae	species
+subj_023	individual			Achyrocline satureoides	Achyrocline satureoides	Plantae	species
+subj_024	individual			Achyrocline satureoides	Achyrocline satureoides	Plantae	species
+subj_025	individual			Achyrocline satureoides	Achyrocline satureoides	Plantae	species
+subj_026	individual			Achyrocline satureoides	Achyrocline satureoides	Plantae	species
+subj_027	individual			Achyrocline satureoides	Achyrocline satureoides	Plantae	species
+subj_028	individual			Achyrocline satureoides	Achyrocline satureoides	Plantae	species
+subj_029	individual			Achyrocline satureoides	Achyrocline satureoides	Plantae	species
+subj_030	individual			Achyrocline satureoides	Achyrocline satureoides	Plantae	species
+subj_031	individual			Achyrocline satureoides	Achyrocline satureoides	Plantae	species
+obj_001	individual			Ceratina asunciana	Ceratina asunciana	Animalia	species
+obj_002	individual			Ceratina asunciana	Ceratina asunciana	Animalia	species
+obj_003	individual			Dialictus (Chloralictus) sp.9	Dialictus (Chloralictus)	Animalia	subgenus
+obj_004	individual			Dialictus (Chloralictus) parvus	Dialictus (Chloralictus) parvus	Animalia	species
+obj_005	individual			Dialictus (Chloralictus) sp.9	Dialictus (Chloralictus)	Animalia	subgenus
+obj_006	individual			Apis mellifera	Apis mellifera	Animalia	species
+obj_007	individual			Apis mellifera	Apis mellifera	Animalia	species
+obj_008	individual			Apis mellifera	Apis mellifera	Animalia	species
+obj_009	individual			Apis mellifera	Apis mellifera	Animalia	species
+obj_010	individual			Apis mellifera	Apis mellifera	Animalia	species
+obj_011	individual			Trigona spinipes	Trigona spinipes	Animalia	species
+obj_012	individual			Dialictus (Dialictus) sp.4	Dialictus (Dialictus)	Animalia	subgenus
+obj_013	individual			Trigona spinipes	Trigona spinipes	Animalia	species
+obj_014	individual			Plebeia emaleerina	Plebeia emaleerina	Animalia	species
+obj_015	individual			Apis maleellifemaleera	Apis maleellifemaleera	Animalia	species
+obj_016	individual			Apis mellifera	Apis mellifera	Animalia	species
+obj_017	individual			Dialictus (Dialictus) sp.4	Dialictus (Dialictus)	Animalia	subgenus
+obj_018	individual			Dialictus (Chloralictus) sp.9	Dialictus (Chloralictus)	Animalia	subgenus
+obj_019	individual			Dialictus (Chloralictus) sp.30	Dialictus (Chloralictus)	Animalia	subgenus
+obj_020	individual			Dialictus (Chloralictus) sp.30	Dialictus (Chloralictus)	Animalia	subgenus
+obj_021	individual			Paroxystoglossa brachysera	Paroxystoglossa brachysera	Animalia	species
+obj_022	individual			Augochlora (Augochlora)	Augochlora (Augochlora)	Animalia	subgenus
+obj_023	individual			Plebeia emerina	Plebeia emerina	Animalia	species
+obj_024	individual			Plebeia emerina	Plebeia emerina	Animalia	species
+obj_025	individual			Plebeia emerina	Plebeia emerina	Animalia	species
+obj_026	individual			Plebeia emerina	Plebeia emerina	Animalia	species
+obj_027	individual			Dialictus (Chloralictus) sp.9	Dialictus (Chloralictus)	Animalia	subgenus
+obj_028	individual			Dialictus (Chloralictus) sp.30	Dialictus (Chloralictus)	Animalia	subgenus
+obj_029	individual			Dialictus (Chloralictus) sp.9	Dialictus (Chloralictus)	Animalia	subgenus
+obj_030	individual			Dialictus (Chloralictus) sp.9	Dialictus (Chloralictus)	Animalia	subgenus
+obj_031	individual			Dialictus (Chloralictus) sp.9	Dialictus (Chloralictus)	Animalia	subgenus
