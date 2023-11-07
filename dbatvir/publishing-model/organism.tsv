@@ -1,0 +1,71 @@
+organism_id	organism_scope	organism_name	organism_remarks	verbatim_identification	scientific_name	family	kingdom	taxon_rank
+bat001	individual			Rousettus aegyptiacus	Rousettus aegyptiacus		Animalia	species
+bat002	individual			Hipposideros caffer	Hipposideros caffer		Animalia	species
+bat003	individual			Hipposideros caffer	Hipposideros caffer		Animalia	species
+bat004	individual			Hipposideros	Hipposideros		Animalia	genus
+bat005	individual			Hipposideros	Hipposideros		Animalia	genus
+bat006	individual			Hipposideros	Hipposideros		Animalia	genus
+bat007	individual			Hipposideros	Hipposideros		Animalia	genus
+bat008	individual			Hipposideros	Hipposideros		Animalia	genus
+bat009	individual			Hipposideros	Hipposideros		Animalia	genus
+bat010	individual			Hipposideros	Hipposideros		Animalia	genus
+bat011	individual			Hipposideros abae	Hipposideros abae		Animalia	species
+bat012	individual			Hipposideros ruber	Hipposideros ruber		Animalia	species
+bat013	individual			Hipposideros abae	Hipposideros abae		Animalia	species
+bat014	individual			Hipposideros abae	Hipposideros abae		Animalia	species
+bat015	individual			Hipposideros abae	Hipposideros abae		Animalia	species
+bat016	individual			Hipposideros ruber	Hipposideros ruber		Animalia	species
+bat017	individual			Hipposideros ruber	Hipposideros ruber		Animalia	species
+bat018	individual			Hipposideros abae	Hipposideros abae		Animalia	species
+bat019	individual			Hipposideros ruber	Hipposideros ruber		Animalia	species
+bat020	individual			Hipposideros ruber	Hipposideros ruber		Animalia	species
+bat021	individual			Hipposideros ruber	Hipposideros ruber		Animalia	species
+bat022	individual			Hipposideros abae	Hipposideros abae		Animalia	species
+bat023	individual			Hipposideros ruber	Hipposideros ruber		Animalia	species
+bat024	individual			Hipposideros ruber	Hipposideros ruber		Animalia	species
+bat025	individual			Hipposideros ruber	Hipposideros ruber		Animalia	species
+bat026	individual			Hipposideros ruber	Hipposideros ruber		Animalia	species
+bat027	individual			Hipposideros ruber	Hipposideros ruber		Animalia	species
+bat028	individual			Hipposideros ruber	Hipposideros ruber		Animalia	species
+bat029	individual			Hipposideros ruber	Hipposideros ruber		Animalia	species
+bat030	individual			Hipposideros ruber	Hipposideros ruber		Animalia	species
+bat031	individual			Hipposideros ruber	Hipposideros ruber		Animalia	species
+bat032	individual			Hipposideros abae	Hipposideros abae		Animalia	species
+bat033	individual			Hipposideros abae	Hipposideros abae		Animalia	species
+bat034	individual			Hipposideros ruber	Hipposideros ruber		Animalia	species
+bat035	individual			Hipposideros abae	Hipposideros abae		Animalia	species
+vir001	nucleotide sequence	229E-related bat coronavirus		BatCoV5425/KEN/Trans Nzoia	BatCoV5425/KEN/Trans Nzoia	Coronaviridae	Virus	strain
+vir002	nucleotide sequence	229E-related bat coronavirus		BatCoV5743/KEN/Kwale	BatCoV5743/KEN/Kwale	Coronaviridae	Virus	strain
+vir003	nucleotide sequence	229E-related bat coronavirus		BatCoV5773/KEN/Kwale	BatCoV5773/KEN/Kwale	Coronaviridae	Virus	strain
+vir004	nucleotide sequence	229E-related bat coronavirus		BtCov-Zim001Mab	BtCov-Zim001Mab	Coronaviridae	Virus	strain
+vir005	nucleotide sequence	229E-related bat coronavirus		BtCov-Zim015Mab	BtCov-Zim015Mab	Coronaviridae	Virus	strain
+vir006	nucleotide sequence	229E-related bat coronavirus		BtCov-Zim019Mab	BtCov-Zim019Mab	Coronaviridae	Virus	strain
+vir007	nucleotide sequence	229E-related bat coronavirus		BtCov-Zim021Mab	BtCov-Zim021Mab	Coronaviridae	Virus	strain
+vir008	nucleotide sequence	229E-related bat coronavirus		BtCov-Zim034Mab	BtCov-Zim034Mab	Coronaviridae	Virus	strain
+vir009	nucleotide sequence	229E-related bat coronavirus		BtCov-Zim037Mab	BtCov-Zim037Mab	Coronaviridae	Virus	strain
+vir010	nucleotide sequence	229E-related bat coronavirus		BtCov-Zim040Mab	BtCov-Zim040Mab	Coronaviridae	Virus	strain
+vir011	nucleotide sequence	229E-related bat coronavirus		BtCoV/AT1A-F1/Hip_aba/GHA/2010	BtCoV/AT1A-F1/Hip_aba/GHA/2010	Coronaviridae	Virus	strain
+vir012	nucleotide sequence	229E-related bat coronavirus		BtCoV/AT1A-F26/Hip_cf._rub/GHA/2010	BtCoV/AT1A-F26/Hip_cf._rub/GHA/2010	Coronaviridae	Virus	strain
+vir013	nucleotide sequence	229E-related bat coronavirus		BtCoV/AT1A-F41/Hip_aba/GHA/2010	BtCoV/AT1A-F41/Hip_aba/GHA/2010	Coronaviridae	Virus	strain
+vir014	nucleotide sequence	229E-related bat coronavirus		BtCoV/AT1A-F45/Hip_aba/GHA/2010	BtCoV/AT1A-F45/Hip_aba/GHA/2010	Coronaviridae	Virus	strain
+vir015	nucleotide sequence	229E-related bat coronavirus		BtCoV/AT1A-F63/Hip_aba/GHA/2010	BtCoV/AT1A-F63/Hip_aba/GHA/2010	Coronaviridae	Virus	strain
+vir016	nucleotide sequence	229E-related bat coronavirus		BtCoV/BUO1E-F102/Hip_cf._rub/GHA/2011	BtCoV/BUO1E-F102/Hip_cf._rub/GHA/2011	Coronaviridae	Virus	strain
+vir017	nucleotide sequence	229E-related bat coronavirus		BtCoV/BUO1E-F82/Hip_cf._rub/GHA/2011	BtCoV/BUO1E-F82/Hip_cf._rub/GHA/2011	Coronaviridae	Virus	strain
+vir018	nucleotide sequence	229E-related bat coronavirus		BtCoV/BUO2A-75/Hip_aba/GHA/2010	BtCoV/BUO2A-75/Hip_aba/GHA/2010	Coronaviridae	Virus	strain
+vir019	nucleotide sequence	229E-related bat coronavirus		BtCoV/BUO2A-F15/Hip_cf._rub/GHA/2010	BtCoV/BUO2A-F15/Hip_cf._rub/GHA/2010	Coronaviridae	Virus	strain
+vir020	nucleotide sequence	229E-related bat coronavirus		BtCoV/BUO2A-F23/Hip_cf._rub/GHA/2010	BtCoV/BUO2A-F23/Hip_cf._rub/GHA/2010	Coronaviridae	Virus	strain
+vir021	nucleotide sequence	229E-related bat coronavirus		BtCoV/BUO2B-F210/Hip_cf._rub/GHA/2011	BtCoV/BUO2B-F210/Hip_cf._rub/GHA/2011	Coronaviridae	Virus	strain
+vir022	nucleotide sequence	229E-related bat coronavirus		BtCoV/BUO2E-F101/Hip_aba/GHA/2011	BtCoV/BUO2E-F101/Hip_aba/GHA/2011	Coronaviridae	Virus	strain
+vir023	nucleotide sequence	229E-related bat coronavirus		BtCoV/BUO2E-F124/Hip_cf._rub/GHA/2011	BtCoV/BUO2E-F124/Hip_cf._rub/GHA/2011	Coronaviridae	Virus	strain
+vir024	nucleotide sequence	229E-related bat coronavirus		BtCoV/BUO2E-F155/Hip_cf._rub/GHA/2011	BtCoV/BUO2E-F155/Hip_cf._rub/GHA/2011	Coronaviridae	Virus	strain
+vir025	nucleotide sequence	229E-related bat coronavirus		BtCoV/BUO2E-F156/Hip_cf._rub/GHA/2011	BtCoV/BUO2E-F156/Hip_cf._rub/GHA/2011	Coronaviridae	Virus	strain
+vir026	nucleotide sequence	229E-related bat coronavirus		BtCoV/BUO2E-F157/Hip_cf._rub/GHA/2011	BtCoV/BUO2E-F157/Hip_cf._rub/GHA/2011	Coronaviridae	Virus	strain
+vir027	nucleotide sequence	229E-related bat coronavirus		BtCoV/BUO2E-F159/Hip_cf._rub/GHA/2011	BtCoV/BUO2E-F159/Hip_cf._rub/GHA/2011	Coronaviridae	Virus	strain
+vir028	nucleotide sequence	229E-related bat coronavirus		BtCoV/BUO2E-F160/Hip_cf._rub/GHA/2011	BtCoV/BUO2E-F160/Hip_cf._rub/GHA/2011	Coronaviridae	Virus	strain
+vir029	nucleotide sequence	229E-related bat coronavirus		BtCoV/BUO2E-F27/Hip_cf._rub/GHA/2011	BtCoV/BUO2E-F27/Hip_cf._rub/GHA/2011	Coronaviridae	Virus	strain
+vir030	nucleotide sequence	229E-related bat coronavirus		BtCoV/BUO2E-F39/Hip_cf._rub/GHA/2011	BtCoV/BUO2E-F39/Hip_cf._rub/GHA/2011	Coronaviridae	Virus	strain
+vir031	nucleotide sequence	229E-related bat coronavirus		BtCoV/BUO2E-F58/Hip_cf._rub/GHA/2011	BtCoV/BUO2E-F58/Hip_cf._rub/GHA/2011	Coronaviridae	Virus	strain
+vir032	nucleotide sequence	229E-related bat coronavirus		BtCoV/FO-A-42/Hip_aba/GHA/2010	BtCoV/FO-A-42/Hip_aba/GHA/2010	Coronaviridae	Virus	strain
+vir033	nucleotide sequence	229E-related bat coronavirus		BtCoV/FO-A-58/Hip_aba/GHA/2010	BtCoV/FO-A-58/Hip_aba/GHA/2010	Coronaviridae	Virus	strain
+vir034	nucleotide sequence	229E-related bat coronavirus		BtCoV/FO-A-73/Hip_cf._rub/GHA/2010	BtCoV/FO-A-73/Hip_cf._rub/GHA/2010	Coronaviridae	Virus	strain
+vir035	nucleotide sequence	229E-related bat coronavirus		BtCoV/FO1A-F2/Hip_aba/GHA/2010	BtCoV/FO1A-F2/Hip_aba/GHA/2010	Coronaviridae	Virus	strain
