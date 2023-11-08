@@ -1,4 +1,4 @@
-"event_id"	"subject_organism_id"	"interaction_type"	"interaction_type_id"	"object_organism_id"
+"eventId"	"subjectOrganismId"	"interactionType"	"interactionTypeId"	"objectOrganismId"
 "evt_1"	"1"	"preys on"	"http://purl.obolibrary.org/obo/RO_0002439"	"obj_1"
 "evt_2"	"2"	"preys on"	"http://purl.obolibrary.org/obo/RO_0002439"	"obj_2"
 "evt_3"	"3"	"preys on"	"http://purl.obolibrary.org/obo/RO_0002439"	"obj_3"

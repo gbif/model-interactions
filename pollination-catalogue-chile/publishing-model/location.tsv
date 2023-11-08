@@ -1,0 +1,187 @@
+"location_id"	"parent_location_id"	"higher_geography_id"	"higher_geography"	"continent"	"water_body"	"island_group"	"island"	"country"	"country_code"	"state_province"	"county"	"municipality"	"locality"	"minimum_elevation_in_meters"	"maximum_elevation_in_meters"	"minimum_distance_above_surface_in_meters"	"maximum_distance_above_surface_in_meters"	"minimum_depth_in_meters"	"maximum_depth_in_meters"	"vertical_datum"	"location_according_to"	"location_remarks"	"decimal_latitude"	"decimal_longitude"	"geodetic_datum"	"coordinate_uncertainty_in_meters"	"coordinate_precision"	"point_radius_spatial_fit"	"footprint_wkt"	"footprint_srs"	"footprint_spatial_fit"	"georeferenced_by"	"georeferenced_date"	"georeference_protocol"	"georeference_sources"	"georeference_remarks"	"preferred_spatial_representation"
+"loc_1"								"Chile"	"CH"	"Los Lagos"																											
+"loc_2"								"Chile"	"CH"	"Los Lagos"													-42.377	-73.999													
+"loc_3"								"Chile"	"CH"	"Los Lagos"													-40.729	-72.188													
+"loc_4"								"Chile"	"CH"	"Los Lagos"													-41.945	-73.576													
+"loc_5"								"Chile"	"CH"	"Coquimbo"													-30.664	-71.686													
+"loc_6"								"Chile"	"CH"	"Coquimbo"													-31.507	-71.106													
+"loc_7"								"Chile"	"CH"	"Coquimbo"													-31.626	-71.251													
+"loc_8"								"Chile"	"CH"	"Valparaiso"													-32.828	-70.529													
+"loc_9"								"Chile"	"CH"	"Valparaiso"													-33.004	-71.142													
+"loc_10"								"Chile"	"CH"	"Maule"													-35.392	-71.599													
+"loc_11"								"Chile"	"CH"	"Los Lagos"													-41.962	-73.533													
+"loc_12"								"Chile"	"CH"	"Valparaiso"													-32.76	-71.147													
+"loc_13"								"Chile"	"CH"	"Valparaiso"													-32.874	-70.339													
+"loc_14"								"Chile"	"CH"	"Maule"													-32.273	-71.729													
+"loc_15"								"Chile"	"CH"	"Bio Bio"													-35.949	-72.616													
+"loc_16"								"Chile"	"CH"	"Valparaiso"													-32.902	-70.842													
+"loc_17"								"Chile"	"CH"	"Valparaiso"													-33.647	-78.845													
+"loc_18"								"Chile"	"CH"	"Valparaiso"													-33	-78													
+"loc_19"								"Chile"	"CH"	"La Araucania"													-39.13	-72.33333333													
+"loc_20"								"Chile"	"CH"	""													-38.454	-73													
+"loc_21"								"Chile"	"CH"	"Metropolitana de Santiago"				2350									-33	-70.3													
+"loc_22"								"Chile"	"CH"	"Metropolitana de Santiago"				1789									-33	-70.313													
+"loc_23"								"Chile"	"CH"	"La Araucania"													-39.95	-73.56666667													
+"loc_24"								"Chile"	"CH"	"Los Rios"				332									-40.62	-73.41666667													
+"loc_25"								"Chile"	"CH"	"Los Rios"				129									-40.62	-72.8													
+"loc_26"								"Chile"	"CH"	"Los Rios"				12.1									-41.88	-73.66666667													
+"loc_27"								"Chile"	"CH"	"Los Rios"				300									-41.12	-73.16666667													
+"loc_28"								"Chile"	"CH"	"Los Rios"				460									-40.67	-72.15													
+"loc_29"								"Chile"	"CH"	"Tarapaca"				2380									-19.32	-69.42													
+"loc_30"								"Chile"	"CH"	"Antofagasta"				2460									-22.32	-68.22													
+"loc_31"								"Chile"	"CH"	"Antofagasta"				3260									-22.33	-68.65													
+"loc_32"								"Chile"	"CH"	"Metropolitana de Santiago"				2480									-33.32	-70.23333333													
+"loc_33"								"Chile"	"CH"	"Metropolitana de Santiago"				2600									-33.77	-70.45													
+"loc_34"								"Chile"	"CH"	"Metropolitana de Santiago"				890									-33.39	-70.53444444													
+"loc_35"								"Chile"	"CH"	"Los Rios"													-41.83	-73.66666667													
+"loc_36"								"Chile"	"CH"	"Magallanes"													-52.042	-69.72													
+"loc_37"								"Chile"	"CH"	"Bio Bio"													-36.53	-71.91666667													
+"loc_38"								"Chile"	"CH"	"Metropolitana de Santiago"													-33.57	-70.63333333													
+"loc_39"								"Chile"	"CH"	"Maule"													-35.49	-72.37972222													
+"loc_40"								"Chile"	"CH"	"Valparaiso"													-33.046	-71.492													
+"loc_41"								"Chile"	"CH"	"Valparaiso"													-33.043	-71.023													
+"loc_42"								"Chile"	"CH"	"Metropolitana de Santiago"													-33.571	-70.266													
+"loc_43"								"Chile"	"CH"	"Metropolitana de Santiago"													-33.614	-70.281													
+"loc_44"								"Chile"	"CH"	"Metropolitana de Santiago"													-33.74	-70.427													
+"loc_45"								"Chile"	"CH"	"O'Higgins"													-34.195	-70.55													
+"loc_46"								"Chile"	"CH"	"O'Higgins"													-34.951	-70.436													
+"loc_47"								"Chile"	"CH"	"Maule"													-35.445	-71.031													
+"loc_48"								"Chile"	"CH"	"Valparaiso"													-32.18	-71.536													
+"loc_49"								"Chile"	"CH"	"Los Rios"													-39.803	-73.261													
+"loc_50"								"Chile"	"CH"	"Los Rios"													-39.8	-73.23333333													
+"loc_51"								"Chile"	"CH"	"Los Rios"													-39.818	-73.202													
+"loc_52"								"Chile"	"CH"	"Los Lagos"				36									-41.88	-73.66663889													
+"loc_53"								"Chile"	"CH"	"Los Lagos"													-41.88	-73.53333333													
+"loc_54"								"Chile"	"CH"	"Maule"													-33.07	-71													
+"loc_55"								"Chile"	"CH"	"Los Lagos"													-39.75	-73.23333333													
+"loc_56"								"Chile"	"CH"	"Atacama"													-23.278	-68.541													
+"loc_57"								"Chile"	"CH"	"Metropolitana de Santiago"				2800									-33.35	-70.26666667													
+"loc_58"								"Chile"	"CH"	"Ñuble"													-36.6	-72													
+"loc_59"								"Chile"	"CH"	"Magallanes"													-50.87	-72.73333333													
+"loc_60"								"Chile"	"CH"	"Araucania"													-37.77	-72.78333333													
+"loc_61"								"Chile"	"CH"	"Araucania"													-38.47	-71.63333333													
+"loc_62"								"Chile"	"CH"	"Metropolitana de Santiago"													-33.38	-70.45													
+"loc_63"								"Chile"	"CH"	"Maule"													-35.03	-70.6													
+"loc_64"								"Chile"	"CH"	"Maule"				2200									-35.6	-71													
+"loc_65"								"Chile"	"CH"	"Maule"													-36.002	-72.772													
+"loc_66"								"Chile"	"CH"	"Valparaiso"													-33.66	-70.32305556													
+"loc_67"								"Chile"	"CH"	"Metropolitana de Santiago"													-33.79	-71.83666667													
+"loc_68"								"Chile"	"CH"	"O'Higgins"				585									-35.02	-71.83666667													
+"loc_69"								"Chile"	"CH"	"Los Rios"													-40.272	-73.093													
+"loc_70"								"Chile"	"CH"	"Los Lagos"													-42.37	-72.4													
+"loc_71"								"Chile"	"CH"	"Araucania"				59									-38.73	-72.88333333													
+"loc_72"								"Chile"	"CH"	"Araucania"				94									-39.1	-72.617													
+"loc_73"								"Chile"	"CH"	"Bio Bio"													-37.25	-71.91666667													
+"loc_74"								"Chile"	"CH"	"Los Rios"													-39.82083	-73.28083													
+"loc_75"								"Chile"	"CH"	"Araucania"													-39.135	-72.558													
+"loc_76"								"Chile"	"CH"	"Araucania"													-39.172	-72.432													
+"loc_77"								"Chile"	"CH"	"Araucania"													-38.838	-72.37													
+"loc_78"								"Chile"	"CH"	"Araucania"													-39.335	-71.972													
+"loc_79"								"Chile"	"CH"	"Valparaiso"													-33.13595	-71.70783													
+"loc_80"								"Chile"	"CH"	"Metropolitana de Santiago"													-33.35327	-70.32563													
+"loc_81"								"Chile"	"CH"	"Bio Bio"													-37.46087	-72.3273													
+"loc_82"								"Chile"	"CH"	"Araucania"													-37.83595	-72.4211													
+"loc_83"								"Chile"	"CH"	"Bio Bio"													-37.79992	-73.22475													
+"loc_84"								"Chile"	"CH"	"Araucania"													-38.18975	-72.72617													
+"loc_85"								"Chile"	"CH"	"Araucania"													-39.33937	-71.74587													
+"loc_86"								"Chile"	"CH"	"Los Lagos"													-41.70433	-73.35548													
+"loc_87"								"Chile"	"CH"	"Los Lagos"													-41.27403	-72.47528													
+"loc_88"								"Chile"	"CH"	"Los Lagos"													-40.94647	-72.7488													
+"loc_89"								"Chile"	"CH"	"Araucania"													-38.31043	-71.78938													
+"loc_90"								"Chile"	"CH"	"Ñuble"													-36.18277	-72.6572													
+"loc_91"								"Chile"	"CH"	"Aysen"													-45.92165	-71.83737													
+"loc_92"								"Chile"	"CH"	"Aysen"													-46.56417	-72.71338													
+"loc_93"								"Chile"	"CH"	"Aysen"													-46.6647	-72.64425													
+"loc_94"								"Chile"	"CH"	"Aysen"													-47.05705	-72.80502													
+"loc_95"								"Chile"	"CH"	"Aysen"													-47.11708	-72.77115													
+"loc_96"								"Chile"	"CH"	"Aysen"													-46.88095	-72.75928													
+"loc_97"								"Chile"	"CH"	"Aysen"													-46.69328	-72.4224													
+"loc_98"								"Chile"	"CH"	"Magallanes"													-51.4099	-72.45868													
+"loc_99"								"Chile"	"CH"	"Magallanes"													-53.6025	-70.95362													
+"loc_100"								"Chile"	"CH"	"Magallanes"													-53.7192	-70.9663													
+"loc_101"								"Chile"	"CH"	"Los Lagos"													-42	-73.58333333													
+"loc_102"								"Chile"	"CH"	"Los Lagos"													-41.83	-73.58333333													
+"loc_103"								"Chile"	"CH"	"Los Lagos"													-42.83	-74.01666667													
+"loc_104"								"Chile"	"CH"	"Coquimbo"													-31.5	-71.106													
+"loc_105"								"Chile"	"CH"	"Metropolitana de Santiago"													-33.02	-70.21666667													
+"loc_106"								"Chile"	"CH"	"Araucania"				4									-37.708	-72.807													
+"loc_107"								"Chile"	"CH"	"Los Rios"				4									-40.022	-72.405													
+"loc_108"								"Chile"	"CH"	"Los Lagos"				4									-41.33	-72.741													
+"loc_109"								"Chile"	"CH"	"Aysen"				4									-45.518	-72.282													
+"loc_110"								"Chile"	"CH"	"Valparaiso"													-32.24	-71.52111111													
+"loc_111"								"Chile"	"CH"	"Valparaiso"													-32.58	-71.4475													
+"loc_112"								"Chile"	"CH"	"Los Lagos"													-41.92	-73.58333333													
+"loc_113"								"Chile"	"CH"	"Valparaiso"				115									-33.87	-71.58333333													
+"loc_114"								"Chile"	"CH"	"Metropolitana de Santiago"				2200									-33.28	-70.26666667													
+"loc_115"								"Chile"	"CH"	"Metropolitana de Santiago"													-33.85	-70.48333333													
+"loc_116"								"Chile"	"CH"	"Coquimbo"				2730									-31.76	-70.50919444													
+"loc_117"								"Chile"	"CH"	"Coquimbo"													-31.5	-71.1													
+"loc_118"								"Chile"	"CH"	"Metropolitana de Santiago"													-33.62	-70.01666667													
+"loc_119"								"Chile"	"CH"	"Metropolitana de Santiago"				2580									-33.62	-70.03138889													
+"loc_120"								"Chile"	"CH"	"Bio Bio"				1834									-36.91	-71.41277778													
+"loc_121"								"Chile"	"CH"	"Metropolitana de Santiago"				1650									-33.33	-70.33333333													
+"loc_122"								"Chile"	"CH"	"Metropolitana de Santiago"				2400									-33.35	-70.28													
+"loc_123"								"Chile"	"CH"	"Metropolitana de Santiago"													-33.755	-69.919													
+"loc_124"								"Chile"	"CH"	"O'Higgins"													-34.239	-70.421													
+"loc_125"								"Chile"	"CH"	"O'Higgins"													-34.436	-71.384													
+"loc_126"								"Chile"	"CH"	"Maule"													-36.025	-70.499													
+"loc_127"								"Chile"	"CH"	"Ñuble"													-36.893	-71.505													
+"loc_128"								"Chile"	"CH"	"Bio Bio"													-37.387	-71.367													
+"loc_129"								"Chile"	"CH"	"Valparaiso"				101									-33.4	-71.63333333													
+"loc_130"								"Chile"	"CH"	"Maule"													-36.42	-72.76666667													
+"loc_131"								"Chile"	"CH"	"Valparaiso"				2398									-32.85	-70.13333333													
+"loc_132"								"Chile"	"CH"	"Coquimbo"													-29.973	-70.564													
+"loc_133"								"Chile"	"CH"	"Coquimbo"													-29.946	-71.22													
+"loc_134"								"Chile"	"CH"	"Coquimbo"													-30.605	-71.142													
+"loc_135"								"Chile"	"CH"	"Metropolitana de Santiago"													-33.39	-71.271													
+"loc_136"								"Chile"	"CH"	"Metropolitana de Santiago"													-33.66	-70.323													
+"loc_137"								"Chile"	"CH"	"Metropolitana de Santiago"													-33.73	-70.479													
+"loc_138"								"Chile"	"CH"	"O'Higgins"													-34.2	-70.522													
+"loc_139"								"Chile"	"CH"	"O'Higgins"													-34.96	-70.425													
+"loc_140"								"Chile"	"CH"	"Maule"													-35.44	-71.06													
+"loc_141"								"Chile"	"CH"	"Valparaiso"													-33.04	-71.5													
+"loc_142"								"Chile"	"CH"	"Valparaiso"													-33.061	-71.059													
+"loc_143"								"Chile"	"CH"	"Valparaiso"													-33.278	-71.415													
+"loc_144"								"Chile"	"CH"	"Metropolitana de Santiago"													-33.38	-70.417													
+"loc_145"								"Chile"	"CH"	"Metropolitana de Santiago"													-33.392	-71.271													
+"loc_146"								"Chile"	"CH"	"Metropolitana de Santiago"													-33.655	-70.323													
+"loc_147"								"Chile"	"CH"	"Metropolitana de Santiago"													-33.727	-70.479													
+"loc_148"								"Chile"	"CH"	"O'Higgins"													-34.202	-70.522													
+"loc_149"								"Chile"	"CH"	"Maule"													-35.439	-71.06													
+"loc_150"								"Chile"	"CH"	"Metropolitana de Santiago"													-33.68	-70.4													
+"loc_151"								"Chile"	"CH"	"Metropolitana de Santiago"													-34.08	-70.9													
+"loc_152"								"Chile"	"CH"	"Metropolitana de Santiago"				2300									-33														
+"loc_153"								"Chile"	"CH"	"Ñuble"				525									-36.063	-72.636													
+"loc_154"								"Chile"	"CH"	"Maule"				475									-35.987	-72.68													
+"loc_155"								"Chile"	"CH"	"O'Higgins"				720									-34.74	-70.77527778													
+"loc_156"								"Chile"	"CH"	"Maule"				1215									-35.61	-71.0725													
+"loc_157"								"Chile"	"CH"	"Coquimbo"				2730									-31.76	-70.968													
+"loc_158"								"Chile"	"CH"	"Coquimbo"				3149									-39.23	-70.01666667													
+"loc_159"								"Chile"	"CH"	"Coquimbo"				2197									-30.73	-70.45													
+"loc_160"								"Chile"	"CH"	"Coquimbo"				2730									-31.75	-70.5													
+"loc_161"								"Chile"	"CH"	"Metropolitana de Santiago"				2599									-33.8	-69.98333333													
+"loc_162"								"Chile"	"CH"	"Bio Bio"				1834									-36.9	-71.4													
+"loc_163"								"Chile"	"CH"	"Bio Bio"													-36.77	-73.19													
+"loc_164"								"Chile"	"CH"	"Maule"													-35.219	-72.282													
+"loc_165"								"Chile"	"CH"	"Maule"													-35.703	-71.112													
+"loc_166"								"Chile"	"CH"	"Maule"													-35.115	-71.954													
+"loc_167"								"Chile"	"CH"	"Maule"				462									-35.83	-72.45													
+"loc_168"								"Chile"	"CH"	"Maule"				160									-36.38	-72.83333333													
+"loc_169"								"Chile"	"CH"	"Metropolitana de Santiago"				900									-33.45	-70.7													
+"loc_170"								"Chile"	"CH"	"Metropolitana de Santiago"				2350									-33.33333333	-70.28333333													
+"loc_171"								"Chile"	"CH"	"Valparaiso"				2850									-32.85	-70.01666667													
+"loc_172"								"Chile"	"CH"	"Atacama"				710									-28.905	-70.016													
+"loc_173"								"Chile"	"CH"	"Coquimbo"				150									-29.633	-71.283													
+"loc_174"								"Chile"	"CH"	"Valparaiso"				130									-32.51666667	-71.46666667													
+"loc_175"								"Chile"	"CH"	"Metropolitana de Santiago"				2580									-33.61666667	-70.01666667													
+"loc_176"								"Chile"	"CH"	"Metropolitana de Santiago"				2500									-33.58333333	-70.53333333													
+"loc_177"								"Chile"	"CH"	"Bio Bio"													-36.12722222	-72.80388889													
+"loc_178"								"Chile"	"CH"	"Valparaiso"													-33.06666667	-71.65													
+"loc_179"								"Chile"	"CH"	"Valparaiso"													-32.63333333	-70.71666667													
+"loc_180"								"Chile"	"CH"	"Metropolitana de Santiago"				2382									-33.35833333	-70.30416667													
+"loc_181"								"Chile"	"CH"	"Coquimbo"				600									-31.48333333	-71.13333333													
+"loc_182"								"Chile"	"CH"	"Metropolitana de Santiago"				3160									-33.31666667	-70.26666667													
+"loc_183"								"Chile"	"CH"	"Metropolitana de Santiago"				3360									-33.31838889	-70.28061111													
+"loc_184"								"Chile"	"CH"	"Metropolitana de Santiago"				3450									-33.297	-70.22180556													
+"loc_185"								"Chile"	"CH"	"Maule"													-35.98333333	-72.68333333													
+"loc_186"								"Chile"	"CH"	"O'Higgins"				520									-34.21666667	-70.78333333													
