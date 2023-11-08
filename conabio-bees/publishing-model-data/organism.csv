@@ -1,4 +1,4 @@
-organism_id,organism_scope,organism_name,organism_remarks,verbatim_identification,scientific_name,kingdom,taxon_rank
+organismID,organismScope,organismName,organismRemarks,verbatimIdentification,scientificName,kingdom,taxonRank
 5c6c5a4c24a038167535c4b46e1e33ab654dd3e4,individual,,,Bombus weisi,Bombus weisi,Animalia,species
 efe366a5b1091b3e734cf04413dd2cf6011b7d28,individual,,,Bombus weisi,Bombus weisi,Animalia,species
 cf579cfc9c148d9309dcc0b270e50dce443aeb7b,individual,,,Bombus weisi,Bombus weisi,Animalia,species
@@ -304,8 +304,8 @@ e145cf10920f86854e2baf7d516e21e8191057c8,individual,,,Protandrena,Protandrena,An
 8fbe5b542636d75e0a61ceb36df81f192dc92147,individual,,,Protandrena,Protandrena,Animalia,genus
 9a9b26815d7500fe615de65b83aeeeb5d3b9d175,individual,,,Protandrena,Protandrena,Animalia,genus
 722d1c6fcb234598f0a07257317ec60c992ebc4b,individual,,,Protandrena,Protandrena,Animalia,genus
-16e80a89292ab694f0da8c4b7a5466bcbb31c514,individual,,,Bombus pensylvanicus D sp. nov. ,Bombus pensylvanicus D sp. nov. ,Animalia,species
-b24fb24ffec5bb5f4b9029d5a93b142fd7b49855,individual,,,Bombus pensylvanicus D sp. nov. ,Bombus pensylvanicus D sp. nov. ,Animalia,species
+16e80a89292ab694f0da8c4b7a5466bcbb31c514,individual,,,Bombus pensylvanicus D sp. nov.,Bombus pensylvanicus D sp. nov.,Animalia,species
+b24fb24ffec5bb5f4b9029d5a93b142fd7b49855,individual,,,Bombus pensylvanicus D sp. nov.,Bombus pensylvanicus D sp. nov.,Animalia,species
 37bac9c57db1f5f043d20826b1834d94c7af916d,individual,,,Protandrena,Protandrena,Animalia,genus
 055b2ad14fbb59bea7d85043fc6cb6121306ca31,individual,,,Sphecodes,Sphecodes,Animalia,genus
 e4825d110352e1c1c0f949dcbd91be65069c2d31,individual,,,Hylaeus,Hylaeus,Animalia,genus
@@ -15397,11 +15397,11 @@ c5fca93ac6b34af3827f36c2a2e7ff579570ad61,individual,,,Xylocopa fimbriata,Xylocop
 2cffb81ce3908fa3a8b2e4fd2402e654af097199,individual,,,Xylocopa,Xylocopa,Animalia,genus
 832464c7fc450fb7c32b9b0bc4b2aaed86a32626,individual,,,Paratetrapedia moesta,Paratetrapedia moesta,Animalia,species
 d78c1ca44f2a333d04a0e8a263ff35f57f597c8b,individual,,,Tetrapedia,Tetrapedia,Animalia,genus
-aa50b9aec493878a7008401e93758c9d05db83e7,individual,,,Bombus pensylvanicus D sp. nov. ,Bombus pensylvanicus D sp. nov. ,Animalia,species
-d2b607554488496014dda6f626f1c379b0f516a4,individual,,,Bombus pensylvanicus D sp. nov. ,Bombus pensylvanicus D sp. nov. ,Animalia,species
-8e62d8268c380541de7032524f6b5954147ca256,individual,,,Bombus pensylvanicus D sp. nov. ,Bombus pensylvanicus D sp. nov. ,Animalia,species
-1e31f4bb4679569413a89bf062e912b07ca22aca,individual,,,Bombus pensylvanicus D sp. nov. ,Bombus pensylvanicus D sp. nov. ,Animalia,species
-c63404fb3ce973d9976aaaaa0903162e96bed21f,individual,,,Bombus pensylvanicus D sp. nov. ,Bombus pensylvanicus D sp. nov. ,Animalia,species
+aa50b9aec493878a7008401e93758c9d05db83e7,individual,,,Bombus pensylvanicus D sp. nov.,Bombus pensylvanicus D sp. nov.,Animalia,species
+d2b607554488496014dda6f626f1c379b0f516a4,individual,,,Bombus pensylvanicus D sp. nov.,Bombus pensylvanicus D sp. nov.,Animalia,species
+8e62d8268c380541de7032524f6b5954147ca256,individual,,,Bombus pensylvanicus D sp. nov.,Bombus pensylvanicus D sp. nov.,Animalia,species
+1e31f4bb4679569413a89bf062e912b07ca22aca,individual,,,Bombus pensylvanicus D sp. nov.,Bombus pensylvanicus D sp. nov.,Animalia,species
+c63404fb3ce973d9976aaaaa0903162e96bed21f,individual,,,Bombus pensylvanicus D sp. nov.,Bombus pensylvanicus D sp. nov.,Animalia,species
 de269b75f02e28e5ef3a621bcf362eceac550459,individual,,,Bombus weisi,Bombus weisi,Animalia,species
 9711a81c2dcc664bfd281c2d51340cd5e58ba19f,individual,,,Bombus weisi,Bombus weisi,Animalia,species
 c524704529410ba0a4279fe6b22e5d4e145e871d,individual,,,Bombus weisi,Bombus weisi,Animalia,species
@@ -16080,7 +16080,7 @@ e65b413080534bdeb7951ed7eb85d535db1ad4c6,individual,,,Augochloropsis,Augochlorop
 d5e4274d16757a3cc41eb32e44d8b3394e928121,individual,,,Augochloropsis metallica,Augochloropsis metallica,Animalia,species
 7dea0ada689a1e5cdca44b94c21367aa16fc67cc,individual,,,Trigona fulviventris,Trigona fulviventris,Animalia,species
 8974aa06617dcf3130f93cc70339e255d5423852,individual,,,Trigona fulviventris,Trigona fulviventris,Animalia,species
-769afd3749b85f773179eb137507f79a86863cf4,individual,,,Xylocopa lateralis nr. ,Xylocopa lateralis nr. ,Animalia,species
+769afd3749b85f773179eb137507f79a86863cf4,individual,,,Xylocopa lateralis nr.,Xylocopa lateralis nr.,Animalia,species
 6c32b9c6d2c4540c7d5b0c2764f04f88ba815570,individual,,,Euglossa variabilis,Euglossa variabilis,Animalia,species
 6eb0337561c7aa906ffb5ee227c0af1478b6ab7d,individual,,,Paratetrapedia calcarata,Paratetrapedia calcarata,Animalia,species
 ce625a8b9e1129005ccfef34bc79ecff67b0311f,individual,,,Trigona fulviventris,Trigona fulviventris,Animalia,species
