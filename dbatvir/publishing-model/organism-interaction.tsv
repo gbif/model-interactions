@@ -1,4 +1,4 @@
-event_id	subject_organism_id	interaction_type	interaction_type_id	object_organism_id
+eventID	subjectOrganismID	interactionType	interactionTypeID	objectOrganismID
 evt001	bat001	host of	http://purl.obolibrary.org/obo/RO_0002453	vir001
 evt002	bat002	host of	http://purl.obolibrary.org/obo/RO_0002453	vir002
 evt003	bat003	host of	http://purl.obolibrary.org/obo/RO_0002453	vir003
