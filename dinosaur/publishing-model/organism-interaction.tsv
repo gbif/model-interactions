@@ -1,4 +1,4 @@
-event_id	subject_organism_id	interaction_type	interaction_type_id	object_organism_id
+eventID	subjectOrganismID	interactionType	interactionTypeID	objectOrganismID
 evt001	sub001	preys on	http://purl.obolibrary.org/obo/RO_0002439	obj001
 evt002	sub002	eats	http://purl.obolibrary.org/obo/RO_0002470	obj002
 evt003	sub003	eats	http://purl.obolibrary.org/obo/RO_0002470	obj003

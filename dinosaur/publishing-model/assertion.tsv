@@ -1,4 +1,4 @@
-target_id	target_type	assertion_type	assertion_value	assertion_value_numeric	assertion_unit	assertion_made_date	assertion_effective_date	assertion_protocol_id
-obj014	organism	http://purl.obolibrary.org/obo/PATO_0000261	http://purl.obolibrary.org/obo/PATO_0001190					
-obj015	organism	http://purl.obolibrary.org/obo/PATO_0000261	http://purl.obolibrary.org/obo/PATO_0001190					
-obj016	organism	http://purl.obolibrary.org/obo/PATO_0000261	http://purl.obolibrary.org/obo/PATO_0001501					
+assertionValue	assertionValueNumeric	assertionUnit	assertionMadeDate	assertionEffectiveDate	assertionByAgentName	assertionByAgentID	assertionProtocol	assertionProtocolID	assertionCitation	assertionRemarks	assertion_protocol_id	assertion_citation	assertion_remarks
+obj014	organism	http://purl.obolibrary.org/obo/PATO_0000261	http://purl.obolibrary.org/obo/PATO_0001190										
+obj015	organism	http://purl.obolibrary.org/obo/PATO_0000261	http://purl.obolibrary.org/obo/PATO_0001190										
+obj016	organism	http://purl.obolibrary.org/obo/PATO_0000261	http://purl.obolibrary.org/obo/PATO_0001501										

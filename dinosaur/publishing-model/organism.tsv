@@ -1,4 +1,4 @@
-organism_id	organism_scope	organism_name	organism_remarks	verbatim_identification	scientific_name	kingdom	taxon_rank
+organismID	organismScope	organismName	organismRemarks	verbatimIdentification	scientificName	kingdom	taxonRank
 sub001				Tyrannosaurus rex	Tyrannosaurus rex	Animalia	species
 sub002				Tyrannosaurus rex	Tyrannosaurus rex	Animalia	species
 sub003				Tyrannosaurus rex	Tyrannosaurus rex	Animalia	species
