@@ -1,4 +1,4 @@
-event_id	subject_organism_id	interaction_type	interaction_type_id	object_organism_id
+eventID	subjectOrganismID	interactionType	interactionTypeID	objectOrganismID
 E2	S1	visited flowers of	http://purl.obolibrary.org/obo/RO_0002622	O1
 E3	S2	visited flowers of	http://purl.obolibrary.org/obo/RO_0002622	O2
 E4	S3	visited flowers of	http://purl.obolibrary.org/obo/RO_0002622	O3

@@ -1,4 +1,4 @@
-organism_id	organism_scope	organism_name	organism_remarks	verbatim_identification	scientific_name	kingdom	taxon_rank
+organismID	organismScope	organismName	organismRemarks	verbatimIdentification	scientificName	kingdom	taxonRank
 S1	INDIVIDUAL			Coleoptera sp Hel	Coleoptera Hel	Animalia	species
 S2	INDIVIDUAL			hymenoptera sp Ast	hymenoptera Ast	Animalia	species
 S3	INDIVIDUAL			hymenoptera sp Bel	hymenoptera Bel	Animalia	species

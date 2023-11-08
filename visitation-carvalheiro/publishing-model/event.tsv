@@ -1,687 +1,687 @@
-event_id	parent_event_id	dataset_id	location_id	protocol_id	event_type	event_name	field_number	event_date	year	month	day	verbatim_event_date	habitat	protocol_description	sample_size_value	sample_size_unit	event_effort	field_notes	event_remarks
-E1			1		FIELD_EXPEDITION								calcareous/grassland	Timed observations	1480	m2			Timed observations all visitors
-E2	E1				BIOTIC INTERACTION												20		
-E3	E1				BIOTIC INTERACTION												20		
-E4	E1				BIOTIC INTERACTION												40		
-E5	E1				BIOTIC INTERACTION												60		
-E6	E1				BIOTIC INTERACTION												120		
-E7	E1				BIOTIC INTERACTION												120		
-E8	E1				BIOTIC INTERACTION												120		
-E9	E1				BIOTIC INTERACTION												140		
-E10	E1				BIOTIC INTERACTION												200		
-E11	E1				BIOTIC INTERACTION												200		
-E12	E1				BIOTIC INTERACTION												360		
-E13	E1				BIOTIC INTERACTION												360		
-E14	E1				BIOTIC INTERACTION												360		
-E15	E1				BIOTIC INTERACTION												400		
-E16	E1				BIOTIC INTERACTION												400		
-E17	E1				BIOTIC INTERACTION												480		
-E18	E1				BIOTIC INTERACTION												480		
-E19	E1				BIOTIC INTERACTION												520		
-E20	E1				BIOTIC INTERACTION												520		
-E21	E1				BIOTIC INTERACTION												520		
-E22	E1				BIOTIC INTERACTION												560		
-E23	E1				BIOTIC INTERACTION												560		
-E24	E1				BIOTIC INTERACTION												560		
-E25	E1				BIOTIC INTERACTION												560		
-E26	E1				BIOTIC INTERACTION												820		
-E27	E1				BIOTIC INTERACTION												820		
-E28	E1				BIOTIC INTERACTION												2400		
-E29	E1				BIOTIC INTERACTION												2400		
-E30	E1				BIOTIC INTERACTION												2400		
-E31	E1				BIOTIC INTERACTION												2400		
-E32	E1				BIOTIC INTERACTION												2400		
-E33	E1				BIOTIC INTERACTION												2400		
-E34	E1				BIOTIC INTERACTION												20		
-E35	E1				BIOTIC INTERACTION												20		
-E36	E1				BIOTIC INTERACTION												40		
-E37	E1				BIOTIC INTERACTION												140		
-E38	E1				BIOTIC INTERACTION												200		
-E39	E1				BIOTIC INTERACTION												300		
-E40	E1				BIOTIC INTERACTION												360		
-E41	E1				BIOTIC INTERACTION												360		
-E42	E1				BIOTIC INTERACTION												480		
-E43	E1				BIOTIC INTERACTION												520		
-E44	E1				BIOTIC INTERACTION												520		
-E45	E1				BIOTIC INTERACTION												520		
-E46	E1				BIOTIC INTERACTION												820		
-E47	E1				BIOTIC INTERACTION												820		
-E48	E1				BIOTIC INTERACTION												2400		
-E49	E1				BIOTIC INTERACTION												2400		
-E50	E1				BIOTIC INTERACTION												2400		
-E51	E1				BIOTIC INTERACTION												20		
-E52	E1				BIOTIC INTERACTION												120		
-E53	E1				BIOTIC INTERACTION												360		
-E54	E1				BIOTIC INTERACTION												2400		
-E55	E1				BIOTIC INTERACTION												820		
-E56	E1				BIOTIC INTERACTION												200		
-E57	E1				BIOTIC INTERACTION												200		
-E58	E1				BIOTIC INTERACTION												480		
-E59	E1				BIOTIC INTERACTION												560		
-E60	E1				BIOTIC INTERACTION												400		
-E61	E1				BIOTIC INTERACTION												520		
-E62	E1				BIOTIC INTERACTION												200		
-E63	E1				BIOTIC INTERACTION												20		
-E64	E1				BIOTIC INTERACTION												60		
-E65	E1				BIOTIC INTERACTION												140		
-E66	E1				BIOTIC INTERACTION												140		
-E67	E1				BIOTIC INTERACTION												140		
-E68	E1				BIOTIC INTERACTION												140		
-E69	E1				BIOTIC INTERACTION												260		
-E70	E1				BIOTIC INTERACTION												260		
-E71	E1				BIOTIC INTERACTION												300		
-E72	E1				BIOTIC INTERACTION												300		
-E73	E1				BIOTIC INTERACTION												300		
-E74	E1				BIOTIC INTERACTION												300		
-E75	E1				BIOTIC INTERACTION												400		
-E76	E1				BIOTIC INTERACTION												1080		
-E77	E1				BIOTIC INTERACTION												1080		
-E78	E1				BIOTIC INTERACTION												1080		
-E79	E1				BIOTIC INTERACTION												1100		
-E80	E1				BIOTIC INTERACTION												1100		
-E81	E1				BIOTIC INTERACTION												1380		
-E82	E1				BIOTIC INTERACTION												3340		
-E83	E1				BIOTIC INTERACTION												3340		
-E84	E1				BIOTIC INTERACTION												3340		
-E85	E1				BIOTIC INTERACTION												3340		
-E86	E1				BIOTIC INTERACTION												3340		
-E87	E1				BIOTIC INTERACTION												3340		
-E88	E1				BIOTIC INTERACTION												140		
-E89	E1				BIOTIC INTERACTION												260		
-E90	E1				BIOTIC INTERACTION												400		
-E91	E1				BIOTIC INTERACTION												120		
-E92	E1				BIOTIC INTERACTION												740		
-E93	E1				BIOTIC INTERACTION												3340		
-E94	E1				BIOTIC INTERACTION												260		
-E95	E1				BIOTIC INTERACTION												40		
-E96	E1				BIOTIC INTERACTION												900		
-E97	E1				BIOTIC INTERACTION												20		
-E98	E1				BIOTIC INTERACTION												20		
-E99	E1				BIOTIC INTERACTION												20		
-E100	E1				BIOTIC INTERACTION												60		
-E101	E1				BIOTIC INTERACTION												60		
-E102	E1				BIOTIC INTERACTION												60		
-E103	E1				BIOTIC INTERACTION												200		
-E104	E1				BIOTIC INTERACTION												460		
-E105	E1				BIOTIC INTERACTION												900		
-E106	E1				BIOTIC INTERACTION												1040		
-E107	E1				BIOTIC INTERACTION												1040		
-E108	E1				BIOTIC INTERACTION												1200		
-E109	E1				BIOTIC INTERACTION												2260		
-E110	E1				BIOTIC INTERACTION												80		
-E111	E1				BIOTIC INTERACTION												2260		
-E112	E1				BIOTIC INTERACTION												900		
-E113	E1				BIOTIC INTERACTION												40		
-E114	E1				BIOTIC INTERACTION												80		
-E115	E1				BIOTIC INTERACTION												80		
-E116	E1				BIOTIC INTERACTION												40		
-E117	E1				BIOTIC INTERACTION												80		
-E118	E1				BIOTIC INTERACTION												80		
-E119	E1				BIOTIC INTERACTION												80		
-E120	E1				BIOTIC INTERACTION												120		
-E121	E1				BIOTIC INTERACTION												120		
-E122	E1				BIOTIC INTERACTION												120		
-E123	E1				BIOTIC INTERACTION												140		
-E124	E1				BIOTIC INTERACTION												140		
-E125	E1				BIOTIC INTERACTION												160		
-E126	E1				BIOTIC INTERACTION												160		
-E127	E1				BIOTIC INTERACTION												180		
-E128	E1				BIOTIC INTERACTION												220		
-E129	E1				BIOTIC INTERACTION												220		
-E130	E1				BIOTIC INTERACTION												300		
-E131	E1				BIOTIC INTERACTION												300		
-E132	E1				BIOTIC INTERACTION												300		
-E133	E1				BIOTIC INTERACTION												300		
-E134	E1				BIOTIC INTERACTION												400		
-E135	E1				BIOTIC INTERACTION												400		
-E136	E1				BIOTIC INTERACTION												400		
-E137	E1				BIOTIC INTERACTION												400		
-E138	E1				BIOTIC INTERACTION												400		
-E139	E1				BIOTIC INTERACTION												400		
-E140	E1				BIOTIC INTERACTION												500		
-E141	E1				BIOTIC INTERACTION												600		
-E142	E1				BIOTIC INTERACTION												80		
-E143	E1				BIOTIC INTERACTION												80		
-E144	E1				BIOTIC INTERACTION												80		
-E145	E1				BIOTIC INTERACTION												160		
-E146	E1				BIOTIC INTERACTION												260		
-E147	E1				BIOTIC INTERACTION												260		
-E148	E1				BIOTIC INTERACTION												300		
-E149	E1				BIOTIC INTERACTION												80		
-E150	E1				BIOTIC INTERACTION												300		
-E151	E1				BIOTIC INTERACTION												80		
-E152	E1				BIOTIC INTERACTION												160		
-E153	E1				BIOTIC INTERACTION												160		
-E154	E1				BIOTIC INTERACTION												180		
-E155	E1				BIOTIC INTERACTION												260		
-E156	E1				BIOTIC INTERACTION												40		
-E157	E1				BIOTIC INTERACTION												80		
-E158	E1				BIOTIC INTERACTION												160		
-E159	E1				BIOTIC INTERACTION												500		
-E160	E1				BIOTIC INTERACTION												640		
-E161	E1				BIOTIC INTERACTION												20		
-E162	E1				BIOTIC INTERACTION												20		
-E163	E1				BIOTIC INTERACTION												80		
-E164	E1				BIOTIC INTERACTION												80		
-E165	E1				BIOTIC INTERACTION												80		
-E166	E1				BIOTIC INTERACTION												180		
-E167	E1				BIOTIC INTERACTION												180		
-E168	E1				BIOTIC INTERACTION												240		
-E169	E1				BIOTIC INTERACTION												360		
-E170	E1				BIOTIC INTERACTION												360		
-E171	E1				BIOTIC INTERACTION												440		
-E172	E1				BIOTIC INTERACTION												440		
-E173	E1				BIOTIC INTERACTION												440		
-E174	E1				BIOTIC INTERACTION												460		
-E175	E1				BIOTIC INTERACTION												460		
-E176	E1				BIOTIC INTERACTION												640		
-E177	E1				BIOTIC INTERACTION												640		
-E178	E1				BIOTIC INTERACTION												820		
-E179	E1				BIOTIC INTERACTION												820		
-E180	E1				BIOTIC INTERACTION												1400		
-E181	E1				BIOTIC INTERACTION												1400		
-E182	E1				BIOTIC INTERACTION												2900		
-E183	E1				BIOTIC INTERACTION												4820		
-E184	E1				BIOTIC INTERACTION												4820		
-E185	E1				BIOTIC INTERACTION												6000		
-E186	E1				BIOTIC INTERACTION												6000		
-E187	E1				BIOTIC INTERACTION												6000		
-E188	E1				BIOTIC INTERACTION												6000		
-E189	E1				BIOTIC INTERACTION												20		
-E190	E1				BIOTIC INTERACTION												60		
-E191	E1				BIOTIC INTERACTION												160		
-E192	E1				BIOTIC INTERACTION												640		
-E193	E1				BIOTIC INTERACTION												640		
-E194	E1				BIOTIC INTERACTION												800		
-E195	E1				BIOTIC INTERACTION												2900		
-E196	E1				BIOTIC INTERACTION												4820		
-E197	E1				BIOTIC INTERACTION												240		
-E198	E1				BIOTIC INTERACTION												4820		
-E199	E1				BIOTIC INTERACTION												6000		
-E200	E1				BIOTIC INTERACTION												6000		
-E201	E1				BIOTIC INTERACTION												2900		
-E202	E1				BIOTIC INTERACTION												180		
-E203	E1				BIOTIC INTERACTION												180		
-E204	E1				BIOTIC INTERACTION												180		
-E205	E1				BIOTIC INTERACTION												1040		
-E206	E1				BIOTIC INTERACTION												60		
-E207	E1				BIOTIC INTERACTION												60		
-E208	E1				BIOTIC INTERACTION												60		
-E209	E1				BIOTIC INTERACTION												60		
-E210	E1				BIOTIC INTERACTION												60		
-E211	E1				BIOTIC INTERACTION												80		
-E212	E1				BIOTIC INTERACTION												180		
-E213	E1				BIOTIC INTERACTION												180		
-E214	E1				BIOTIC INTERACTION												180		
-E215	E1				BIOTIC INTERACTION												300		
-E216	E1				BIOTIC INTERACTION												300		
-E217	E1				BIOTIC INTERACTION												300		
-E218	E1				BIOTIC INTERACTION												500		
-E219	E1				BIOTIC INTERACTION												500		
-E220	E1				BIOTIC INTERACTION												500		
-E221	E1				BIOTIC INTERACTION												500		
-E222	E1				BIOTIC INTERACTION												520		
-E223	E1				BIOTIC INTERACTION												520		
-E224	E1				BIOTIC INTERACTION												540		
-E225	E1				BIOTIC INTERACTION												540		
-E226	E1				BIOTIC INTERACTION												540		
-E227	E1				BIOTIC INTERACTION												540		
-E228	E1				BIOTIC INTERACTION												560		
-E229	E1				BIOTIC INTERACTION												560		
-E230	E1				BIOTIC INTERACTION												900		
-E231	E1				BIOTIC INTERACTION												900		
-E232	E1				BIOTIC INTERACTION												1040		
-E233	E1				BIOTIC INTERACTION												1040		
-E234	E1				BIOTIC INTERACTION												1040		
-E235	E1				BIOTIC INTERACTION												1040		
-E236	E1				BIOTIC INTERACTION												2740		
-E237	E1				BIOTIC INTERACTION												2740		
-E238	E1				BIOTIC INTERACTION												3560		
-E239	E1				BIOTIC INTERACTION												3560		
-E240	E1				BIOTIC INTERACTION												3560		
-E241	E1				BIOTIC INTERACTION												3560		
-E242	E1				BIOTIC INTERACTION												1040		
-E243	E1				BIOTIC INTERACTION												4680		
-E244	E1				BIOTIC INTERACTION												4680		
-E245	E1				BIOTIC INTERACTION												80		
-E246	E1				BIOTIC INTERACTION												80		
-E247	E1				BIOTIC INTERACTION												700		
-E248	E1				BIOTIC INTERACTION												700		
-E249	E1				BIOTIC INTERACTION												60		
-E250	E1				BIOTIC INTERACTION												260		
-E251	E1				BIOTIC INTERACTION												300		
-E252	E1				BIOTIC INTERACTION												300		
-E253	E1				BIOTIC INTERACTION												300		
-E254	E1				BIOTIC INTERACTION												500		
-E255	E1				BIOTIC INTERACTION												560		
-E256	E1				BIOTIC INTERACTION												180		
-E257	E1				BIOTIC INTERACTION												4680		
-E258	E1				BIOTIC INTERACTION												500		
-E259	E1				BIOTIC INTERACTION												520		
-E260	E1				BIOTIC INTERACTION												540		
-E261	E1				BIOTIC INTERACTION												140		
-E262	E1				BIOTIC INTERACTION												520		
-E263	E1				BIOTIC INTERACTION												540		
-E264	E1				BIOTIC INTERACTION												4680		
-E265	E1				BIOTIC INTERACTION												540		
-E266	E1				BIOTIC INTERACTION												3560		
-E267	E1				BIOTIC INTERACTION												260		
-E268	E1				BIOTIC INTERACTION												200		
-E269	E1				BIOTIC INTERACTION												240		
-E270	E1				BIOTIC INTERACTION												1400		
-E271	E1				BIOTIC INTERACTION												1400		
-E272	E1				BIOTIC INTERACTION												4400		
-E273	E1				BIOTIC INTERACTION												60		
-E274	E1				BIOTIC INTERACTION												60		
-E275	E1				BIOTIC INTERACTION												60		
-E276	E1				BIOTIC INTERACTION												60		
-E277	E1				BIOTIC INTERACTION												60		
-E278	E1				BIOTIC INTERACTION												80		
-E279	E1				BIOTIC INTERACTION												80		
-E280	E1				BIOTIC INTERACTION												100		
-E281	E1				BIOTIC INTERACTION												200		
-E282	E1				BIOTIC INTERACTION												200		
-E283	E1				BIOTIC INTERACTION												200		
-E284	E1				BIOTIC INTERACTION												220		
-E285	E1				BIOTIC INTERACTION												240		
-E286	E1				BIOTIC INTERACTION												240		
-E287	E1				BIOTIC INTERACTION												240		
-E288	E1				BIOTIC INTERACTION												240		
-E289	E1				BIOTIC INTERACTION												380		
-E290	E1				BIOTIC INTERACTION												380		
-E291	E1				BIOTIC INTERACTION												600		
-E292	E1				BIOTIC INTERACTION												600		
-E293	E1				BIOTIC INTERACTION												600		
-E294	E1				BIOTIC INTERACTION												640		
-E295	E1				BIOTIC INTERACTION												800		
-E296	E1				BIOTIC INTERACTION												1000		
-E297	E1				BIOTIC INTERACTION												1000		
-E298	E1				BIOTIC INTERACTION												1000		
-E299	E1				BIOTIC INTERACTION												1060		
-E300	E1				BIOTIC INTERACTION												1060		
-E301	E1				BIOTIC INTERACTION												1060		
-E302	E1				BIOTIC INTERACTION												1220		
-E303	E1				BIOTIC INTERACTION												1400		
-E304	E1				BIOTIC INTERACTION												1400		
-E305	E1				BIOTIC INTERACTION												1400		
-E306	E1				BIOTIC INTERACTION												1400		
-E307	E1				BIOTIC INTERACTION												1400		
-E308	E1				BIOTIC INTERACTION												1520		
-E309	E1				BIOTIC INTERACTION												1520		
-E310	E1				BIOTIC INTERACTION												1520		
-E311	E1				BIOTIC INTERACTION												2000		
-E312	E1				BIOTIC INTERACTION												2160		
-E313	E1				BIOTIC INTERACTION												2160		
-E314	E1				BIOTIC INTERACTION												2160		
-E315	E1				BIOTIC INTERACTION												2160		
-E316	E1				BIOTIC INTERACTION												2160		
-E317	E1				BIOTIC INTERACTION												4400		
-E318	E1				BIOTIC INTERACTION												4400		
-E319	E1				BIOTIC INTERACTION												4400		
-E320	E1				BIOTIC INTERACTION												800		
-E321	E1				BIOTIC INTERACTION												800		
-E322	E1				BIOTIC INTERACTION												1400		
-E323	E1				BIOTIC INTERACTION												1400		
-E324	E1				BIOTIC INTERACTION												80		
-E325	E1				BIOTIC INTERACTION												100		
-E326	E1				BIOTIC INTERACTION												380		
-E327	E1				BIOTIC INTERACTION												800		
-E328	E1				BIOTIC INTERACTION												800		
-E329	E1				BIOTIC INTERACTION												1000		
-E330	E1				BIOTIC INTERACTION												1060		
-E331	E1				BIOTIC INTERACTION												1400		
-E332	E1				BIOTIC INTERACTION												1400		
-E333	E1				BIOTIC INTERACTION												1520		
-E334	E1				BIOTIC INTERACTION												1520		
-E335	E1				BIOTIC INTERACTION												1520		
-E336	E1				BIOTIC INTERACTION												2000		
-E337	E1				BIOTIC INTERACTION												100		
-E338	E1				BIOTIC INTERACTION												1400		
-E339	E1				BIOTIC INTERACTION												240		
-E340	E1				BIOTIC INTERACTION												4400		
-E341	E1				BIOTIC INTERACTION												600		
-E342	E1				BIOTIC INTERACTION												800		
-E343	E1				BIOTIC INTERACTION												1400		
-E344	E1				BIOTIC INTERACTION												1000		
-E345	E1				BIOTIC INTERACTION												800		
-E346	E1				BIOTIC INTERACTION												120		
-E347	E1				BIOTIC INTERACTION												140		
-E348	E1				BIOTIC INTERACTION												200		
-E349	E1				BIOTIC INTERACTION												200		
-E350	E1				BIOTIC INTERACTION												500		
-E351	E1				BIOTIC INTERACTION												700		
-E352	E1				BIOTIC INTERACTION												1400		
-E353	E1				BIOTIC INTERACTION												10000		
-E354	E1				BIOTIC INTERACTION												10000		
-E355	E1				BIOTIC INTERACTION												1940		
-E356	E1				BIOTIC INTERACTION												20		
-E357	E1				BIOTIC INTERACTION												20		
-E358	E1				BIOTIC INTERACTION												20		
-E359	E1				BIOTIC INTERACTION												40		
-E360	E1				BIOTIC INTERACTION												120		
-E361	E1				BIOTIC INTERACTION												140		
-E362	E1				BIOTIC INTERACTION												140		
-E363	E1				BIOTIC INTERACTION												180		
-E364	E1				BIOTIC INTERACTION												180		
-E365	E1				BIOTIC INTERACTION												200		
-E366	E1				BIOTIC INTERACTION												200		
-E367	E1				BIOTIC INTERACTION												200		
-E368	E1				BIOTIC INTERACTION												220		
-E369	E1				BIOTIC INTERACTION												220		
-E370	E1				BIOTIC INTERACTION												220		
-E371	E1				BIOTIC INTERACTION												240		
-E372	E1				BIOTIC INTERACTION												240		
-E373	E1				BIOTIC INTERACTION												240		
-E374	E1				BIOTIC INTERACTION												260		
-E375	E1				BIOTIC INTERACTION												260		
-E376	E1				BIOTIC INTERACTION												300		
-E377	E1				BIOTIC INTERACTION												420		
-E378	E1				BIOTIC INTERACTION												500		
-E379	E1				BIOTIC INTERACTION												500		
-E380	E1				BIOTIC INTERACTION												500		
-E381	E1				BIOTIC INTERACTION												700		
-E382	E1				BIOTIC INTERACTION												700		
-E383	E1				BIOTIC INTERACTION												700		
-E384	E1				BIOTIC INTERACTION												700		
-E385	E1				BIOTIC INTERACTION												800		
-E386	E1				BIOTIC INTERACTION												800		
-E387	E1				BIOTIC INTERACTION												880		
-E388	E1				BIOTIC INTERACTION												920		
-E389	E1				BIOTIC INTERACTION												920		
-E390	E1				BIOTIC INTERACTION												920		
-E391	E1				BIOTIC INTERACTION												920		
-E392	E1				BIOTIC INTERACTION												920		
-E393	E1				BIOTIC INTERACTION												1400		
-E394	E1				BIOTIC INTERACTION												1400		
-E395	E1				BIOTIC INTERACTION												1600		
-E396	E1				BIOTIC INTERACTION												1600		
-E397	E1				BIOTIC INTERACTION												1760		
-E398	E1				BIOTIC INTERACTION												1760		
-E399	E1				BIOTIC INTERACTION												1940		
-E400	E1				BIOTIC INTERACTION												1940		
-E401	E1				BIOTIC INTERACTION												1940		
-E402	E1				BIOTIC INTERACTION												1960		
-E403	E1				BIOTIC INTERACTION												1960		
-E404	E1				BIOTIC INTERACTION												1960		
-E405	E1				BIOTIC INTERACTION												1960		
-E406	E1				BIOTIC INTERACTION												1960		
-E407	E1				BIOTIC INTERACTION												1960		
-E408	E1				BIOTIC INTERACTION												1960		
-E409	E1				BIOTIC INTERACTION												1960		
-E410	E1				BIOTIC INTERACTION												1960		
-E411	E1				BIOTIC INTERACTION												1960		
-E412	E1				BIOTIC INTERACTION												1960		
-E413	E1				BIOTIC INTERACTION												1960		
-E414	E1				BIOTIC INTERACTION												1960		
-E415	E1				BIOTIC INTERACTION												1960		
-E416	E1				BIOTIC INTERACTION												2800		
-E417	E1				BIOTIC INTERACTION												2800		
-E418	E1				BIOTIC INTERACTION												3720		
-E419	E1				BIOTIC INTERACTION												3720		
-E420	E1				BIOTIC INTERACTION												3720		
-E421	E1				BIOTIC INTERACTION												3720		
-E422	E1				BIOTIC INTERACTION												3720		
-E423	E1				BIOTIC INTERACTION												3720		
-E424	E1				BIOTIC INTERACTION												10000		
-E425	E1				BIOTIC INTERACTION												1400		
-E426	E1				BIOTIC INTERACTION												1940		
-E427	E1				BIOTIC INTERACTION												20		
-E428	E1				BIOTIC INTERACTION												120		
-E429	E1				BIOTIC INTERACTION												200		
-E430	E1				BIOTIC INTERACTION												220		
-E431	E1				BIOTIC INTERACTION												1960		
-E432	E1				BIOTIC INTERACTION												1960		
-E433	E1				BIOTIC INTERACTION												700		
-E434	E1				BIOTIC INTERACTION												500		
-E435	E1				BIOTIC INTERACTION												1120		
-E436	E1				BIOTIC INTERACTION												1960		
-E437	E1				BIOTIC INTERACTION												120		
-E438	E1				BIOTIC INTERACTION												1600		
-E439	E1				BIOTIC INTERACTION												200		
-E440	E1				BIOTIC INTERACTION												1600		
-E441	E1				BIOTIC INTERACTION												1960		
-E442	E1				BIOTIC INTERACTION												3720		
-E443	E1				BIOTIC INTERACTION												10000		
-E444	E1				BIOTIC INTERACTION												3720		
-E445	E1				BIOTIC INTERACTION												40		
-E446	E1				BIOTIC INTERACTION												180		
-E447	E1				BIOTIC INTERACTION												60		
-E448	E1				BIOTIC INTERACTION												60		
-E449	E1				BIOTIC INTERACTION												60		
-E450	E1				BIOTIC INTERACTION												140		
-E451	E1				BIOTIC INTERACTION												140		
-E452	E1				BIOTIC INTERACTION												140		
-E453	E1				BIOTIC INTERACTION												140		
-E454	E1				BIOTIC INTERACTION												160		
-E455	E1				BIOTIC INTERACTION												160		
-E456	E1				BIOTIC INTERACTION												180		
-E457	E1				BIOTIC INTERACTION												180		
-E458	E1				BIOTIC INTERACTION												180		
-E459	E1				BIOTIC INTERACTION												180		
-E460	E1				BIOTIC INTERACTION												180		
-E461	E1				BIOTIC INTERACTION												180		
-E462	E1				BIOTIC INTERACTION												180		
-E463	E1				BIOTIC INTERACTION												280		
-E464	E1				BIOTIC INTERACTION												300		
-E465	E1				BIOTIC INTERACTION												300		
-E466	E1				BIOTIC INTERACTION												300		
-E467	E1				BIOTIC INTERACTION												320		
-E468	E1				BIOTIC INTERACTION												320		
-E469	E1				BIOTIC INTERACTION												320		
-E470	E1				BIOTIC INTERACTION												320		
-E471	E1				BIOTIC INTERACTION												320		
-E472	E1				BIOTIC INTERACTION												440		
-E473	E1				BIOTIC INTERACTION												660		
-E474	E1				BIOTIC INTERACTION												660		
-E475	E1				BIOTIC INTERACTION												660		
-E476	E1				BIOTIC INTERACTION												680		
-E477	E1				BIOTIC INTERACTION												860		
-E478	E1				BIOTIC INTERACTION												860		
-E479	E1				BIOTIC INTERACTION												860		
-E480	E1				BIOTIC INTERACTION												860		
-E481	E1				BIOTIC INTERACTION												860		
-E482	E1				BIOTIC INTERACTION												860		
-E483	E1				BIOTIC INTERACTION												860		
-E484	E1				BIOTIC INTERACTION												860		
-E485	E1				BIOTIC INTERACTION												1000		
-E486	E1				BIOTIC INTERACTION												1000		
-E487	E1				BIOTIC INTERACTION												1000		
-E488	E1				BIOTIC INTERACTION												1000		
-E489	E1				BIOTIC INTERACTION												1260		
-E490	E1				BIOTIC INTERACTION												1260		
-E491	E1				BIOTIC INTERACTION												1260		
-E492	E1				BIOTIC INTERACTION												1780		
-E493	E1				BIOTIC INTERACTION												1780		
-E494	E1				BIOTIC INTERACTION												1780		
-E495	E1				BIOTIC INTERACTION												2940		
-E496	E1				BIOTIC INTERACTION												3560		
-E497	E1				BIOTIC INTERACTION												4000		
-E498	E1				BIOTIC INTERACTION												4000		
-E499	E1				BIOTIC INTERACTION												4000		
-E500	E1				BIOTIC INTERACTION												4800		
-E501	E1				BIOTIC INTERACTION												5080		
-E502	E1				BIOTIC INTERACTION												5080		
-E503	E1				BIOTIC INTERACTION												5080		
-E504	E1				BIOTIC INTERACTION												5080		
-E505	E1				BIOTIC INTERACTION												5080		
-E506	E1				BIOTIC INTERACTION												5080		
-E507	E1				BIOTIC INTERACTION												5080		
-E508	E1				BIOTIC INTERACTION												5080		
-E509	E1				BIOTIC INTERACTION												1260		
-E510	E1				BIOTIC INTERACTION												1260		
-E511	E1				BIOTIC INTERACTION												60		
-E512	E1				BIOTIC INTERACTION												160		
-E513	E1				BIOTIC INTERACTION												180		
-E514	E1				BIOTIC INTERACTION												180		
-E515	E1				BIOTIC INTERACTION												300		
-E516	E1				BIOTIC INTERACTION												320		
-E517	E1				BIOTIC INTERACTION												320		
-E518	E1				BIOTIC INTERACTION												440		
-E519	E1				BIOTIC INTERACTION												860		
-E520	E1				BIOTIC INTERACTION												1260		
-E521	E1				BIOTIC INTERACTION												1260		
-E522	E1				BIOTIC INTERACTION												1780		
-E523	E1				BIOTIC INTERACTION												3560		
-E524	E1				BIOTIC INTERACTION												3560		
-E525	E1				BIOTIC INTERACTION												5080		
-E526	E1				BIOTIC INTERACTION												180		
-E527	E1				BIOTIC INTERACTION												140		
-E528	E1				BIOTIC INTERACTION												300		
-E529	E1				BIOTIC INTERACTION												3560		
-E530	E1				BIOTIC INTERACTION												4000		
-E531	E1				BIOTIC INTERACTION												15000		
-E532	E1				BIOTIC INTERACTION												1260		
-E533	E1				BIOTIC INTERACTION												3560		
-E534	E1				BIOTIC INTERACTION												180		
-E535	E1				BIOTIC INTERACTION												40		
-E536	E1				BIOTIC INTERACTION												960		
-E537	E1				BIOTIC INTERACTION												6400		
-E538	E1				BIOTIC INTERACTION												20		
-E539	E1				BIOTIC INTERACTION												40		
-E540	E1				BIOTIC INTERACTION												40		
-E541	E1				BIOTIC INTERACTION												100		
-E542	E1				BIOTIC INTERACTION												100		
-E543	E1				BIOTIC INTERACTION												120		
-E544	E1				BIOTIC INTERACTION												120		
-E545	E1				BIOTIC INTERACTION												120		
-E546	E1				BIOTIC INTERACTION												120		
-E547	E1				BIOTIC INTERACTION												120		
-E548	E1				BIOTIC INTERACTION												260		
-E549	E1				BIOTIC INTERACTION												280		
-E550	E1				BIOTIC INTERACTION												300		
-E551	E1				BIOTIC INTERACTION												300		
-E552	E1				BIOTIC INTERACTION												300		
-E553	E1				BIOTIC INTERACTION												300		
-E554	E1				BIOTIC INTERACTION												400		
-E555	E1				BIOTIC INTERACTION												400		
-E556	E1				BIOTIC INTERACTION												400		
-E557	E1				BIOTIC INTERACTION												420		
-E558	E1				BIOTIC INTERACTION												420		
-E559	E1				BIOTIC INTERACTION												420		
-E560	E1				BIOTIC INTERACTION												500		
-E561	E1				BIOTIC INTERACTION												500		
-E562	E1				BIOTIC INTERACTION												500		
-E563	E1				BIOTIC INTERACTION												740		
-E564	E1				BIOTIC INTERACTION												840		
-E565	E1				BIOTIC INTERACTION												840		
-E566	E1				BIOTIC INTERACTION												920		
-E567	E1				BIOTIC INTERACTION												920		
-E568	E1				BIOTIC INTERACTION												960		
-E569	E1				BIOTIC INTERACTION												960		
-E570	E1				BIOTIC INTERACTION												960		
-E571	E1				BIOTIC INTERACTION												960		
-E572	E1				BIOTIC INTERACTION												960		
-E573	E1				BIOTIC INTERACTION												960		
-E574	E1				BIOTIC INTERACTION												1420		
-E575	E1				BIOTIC INTERACTION												1420		
-E576	E1				BIOTIC INTERACTION												1420		
-E577	E1				BIOTIC INTERACTION												1420		
-E578	E1				BIOTIC INTERACTION												5400		
-E579	E1				BIOTIC INTERACTION												5400		
-E580	E1				BIOTIC INTERACTION												5400		
-E581	E1				BIOTIC INTERACTION												5400		
-E582	E1				BIOTIC INTERACTION												5400		
-E583	E1				BIOTIC INTERACTION												5400		
-E584	E1				BIOTIC INTERACTION												5400		
-E585	E1				BIOTIC INTERACTION												960		
-E586	E1				BIOTIC INTERACTION												840		
-E587	E1				BIOTIC INTERACTION												6400		
-E588	E1				BIOTIC INTERACTION												5400		
-E589	E1				BIOTIC INTERACTION												5400		
-E590	E1				BIOTIC INTERACTION												5400		
-E591	E1				BIOTIC INTERACTION												5400		
-E592	E1				BIOTIC INTERACTION												400		
-E593	E1				BIOTIC INTERACTION												500		
-E594	E1				BIOTIC INTERACTION												500		
-E595	E1				BIOTIC INTERACTION												120		
-E596	E1				BIOTIC INTERACTION												120		
-E597	E1				BIOTIC INTERACTION												300		
-E598	E1				BIOTIC INTERACTION												400		
-E599	E1				BIOTIC INTERACTION												920		
-E600	E1				BIOTIC INTERACTION												1420		
-E601	E1				BIOTIC INTERACTION												6400		
-E602	E1				BIOTIC INTERACTION												6400		
-E603	E1				BIOTIC INTERACTION												400		
-E604	E1				BIOTIC INTERACTION												420		
-E605	E1				BIOTIC INTERACTION												1420		
-E606	E1				BIOTIC INTERACTION												300		
-E607	E1				BIOTIC INTERACTION												5400		
-E608	E1				BIOTIC INTERACTION												840		
-E609	E1				BIOTIC INTERACTION												1420		
-E610	E1				BIOTIC INTERACTION												6400		
-E611	E1				BIOTIC INTERACTION												960		
-E612	E1				BIOTIC INTERACTION												5400		
-E613	E1				BIOTIC INTERACTION												80		
-E614	E1				BIOTIC INTERACTION												820		
-E615	E1				BIOTIC INTERACTION												820		
-E616	E1				BIOTIC INTERACTION												820		
-E617	E1				BIOTIC INTERACTION												1060		
-E618	E1				BIOTIC INTERACTION												1300		
-E619	E1				BIOTIC INTERACTION												1300		
-E620	E1				BIOTIC INTERACTION												1300		
-E621	E1				BIOTIC INTERACTION												1300		
-E622	E1				BIOTIC INTERACTION												1520		
-E623	E1				BIOTIC INTERACTION												40		
-E624	E1				BIOTIC INTERACTION												40		
-E625	E1				BIOTIC INTERACTION												80		
-E626	E1				BIOTIC INTERACTION												80		
-E627	E1				BIOTIC INTERACTION												80		
-E628	E1				BIOTIC INTERACTION												80		
-E629	E1				BIOTIC INTERACTION												80		
-E630	E1				BIOTIC INTERACTION												80		
-E631	E1				BIOTIC INTERACTION												80		
-E632	E1				BIOTIC INTERACTION												80		
-E633	E1				BIOTIC INTERACTION												200		
-E634	E1				BIOTIC INTERACTION												200		
-E635	E1				BIOTIC INTERACTION												200		
-E636	E1				BIOTIC INTERACTION												280		
-E637	E1				BIOTIC INTERACTION												300		
-E638	E1				BIOTIC INTERACTION												300		
-E639	E1				BIOTIC INTERACTION												300		
-E640	E1				BIOTIC INTERACTION												320		
-E641	E1				BIOTIC INTERACTION												320		
-E642	E1				BIOTIC INTERACTION												320		
-E643	E1				BIOTIC INTERACTION												320		
-E644	E1				BIOTIC INTERACTION												520		
-E645	E1				BIOTIC INTERACTION												520		
-E646	E1				BIOTIC INTERACTION												540		
-E647	E1				BIOTIC INTERACTION												540		
-E648	E1				BIOTIC INTERACTION												540		
-E649	E1				BIOTIC INTERACTION												620		
-E650	E1				BIOTIC INTERACTION												1300		
-E651	E1				BIOTIC INTERACTION												1300		
-E652	E1				BIOTIC INTERACTION												1300		
-E653	E1				BIOTIC INTERACTION												1460		
-E654	E1				BIOTIC INTERACTION												1460		
-E655	E1				BIOTIC INTERACTION												1520		
-E656	E1				BIOTIC INTERACTION												2000		
-E657	E1				BIOTIC INTERACTION												2000		
-E658	E1				BIOTIC INTERACTION												1060		
-E659	E1				BIOTIC INTERACTION												1520		
-E660	E1				BIOTIC INTERACTION												1520		
-E661	E1				BIOTIC INTERACTION												1300		
-E662	E1				BIOTIC INTERACTION												740		
-E663	E1				BIOTIC INTERACTION												740		
-E664	E1				BIOTIC INTERACTION												40		
-E665	E1				BIOTIC INTERACTION												80		
-E666	E1				BIOTIC INTERACTION												80		
-E667	E1				BIOTIC INTERACTION												80		
-E668	E1				BIOTIC INTERACTION												200		
-E669	E1				BIOTIC INTERACTION												240		
-E670	E1				BIOTIC INTERACTION												300		
-E671	E1				BIOTIC INTERACTION												300		
-E672	E1				BIOTIC INTERACTION												740		
-E673	E1				BIOTIC INTERACTION												1520		
-E674	E1				BIOTIC INTERACTION												80		
-E675	E1				BIOTIC INTERACTION												80		
-E676	E1				BIOTIC INTERACTION												240		
-E677	E1				BIOTIC INTERACTION												820		
-E678	E1				BIOTIC INTERACTION												80		
-E679	E1				BIOTIC INTERACTION												300		
-E680	E1				BIOTIC INTERACTION												520		
-E681	E1				BIOTIC INTERACTION												1300		
-E682	E1				BIOTIC INTERACTION												1520		
-E683	E1				BIOTIC INTERACTION												540		
-E684	E1				BIOTIC INTERACTION												60		
-E685	E1				BIOTIC INTERACTION												240		
-E686	E1				BIOTIC INTERACTION												820		
+eventID	parentEventID	datasetID	locationID	protocolID\	eventType	eventName	recordedBy	recordedByID	fieldNumber	eventDate	eventTime	year	month	day	verbatimEventDate	habitat	protocolDescription	sampleSizeValue	sampleSizeUnit	eventEffort minutes	fieldNotes	eventCitation	eventRemarks	higherGeographyID	higherGeography	continent	waterBody	islandGroup	island	country	countryCode	stateProvince	county	municipality	locality	verbatimLocality	minimumElevationInMeters	maximumElevationInMeters	verbatimElevation	minimumDistanceAboveSurfaceInMeters	maximumDistanceAboveSurfaceInMeters	minimumDepthInMeters	maximumDepthInMeters	verbatimDepth	verticalDatum	locationAccordingTo	locationRemarks	decimalLatitude	decimalLongitude	geodeticDatum	coordinateUncertaintyInMeters	coordinatePrecision	pointRadiusSpatialFit	verbatimCoordinates	verbatimLatitude	verbatimLongitude	verbatimCoordinateSystem	verbatimSRS	footprintWKT	footprintSRS	footprintSpatialFit	georeferencedBy	georeferencedDate	georeferenceProtocol	georeferenceSources	georeferenceRemarks
+E1			1		FIELD_EXPEDITION											calcareous/grassland	Timed observations	1480	m2				Timed observations all visitors							England	GB																																			
+E2	E1		1		ORGANISM_INTERACTION															20 minutes										England	GB																																			
+E3	E1		1		ORGANISM_INTERACTION															20 minutes										England	GB																																			
+E4	E1		1		ORGANISM_INTERACTION															40 minutes										England	GB																																			
+E5	E1		1		ORGANISM_INTERACTION															60 minutes										England	GB																																			
+E6	E1		1		ORGANISM_INTERACTION															120 minutes										England	GB																																			
+E7	E1		1		ORGANISM_INTERACTION															120 minutes										England	GB																																			
+E8	E1		1		ORGANISM_INTERACTION															120 minutes										England	GB																																			
+E9	E1		1		ORGANISM_INTERACTION															140 minutes										England	GB																																			
+E10	E1		1		ORGANISM_INTERACTION															200 minutes										England	GB																																			
+E11	E1		1		ORGANISM_INTERACTION															200 minutes										England	GB																																			
+E12	E1		1		ORGANISM_INTERACTION															360 minutes										England	GB																																			
+E13	E1		1		ORGANISM_INTERACTION															360 minutes										England	GB																																			
+E14	E1		1		ORGANISM_INTERACTION															360 minutes										England	GB																																			
+E15	E1		1		ORGANISM_INTERACTION															400 minutes										England	GB																																			
+E16	E1		1		ORGANISM_INTERACTION															400 minutes										England	GB																																			
+E17	E1		1		ORGANISM_INTERACTION															480 minutes										England	GB																																			
+E18	E1		1		ORGANISM_INTERACTION															480 minutes										England	GB																																			
+E19	E1		1		ORGANISM_INTERACTION															520 minutes										England	GB																																			
+E20	E1		1		ORGANISM_INTERACTION															520 minutes										England	GB																																			
+E21	E1		1		ORGANISM_INTERACTION															520 minutes										England	GB																																			
+E22	E1		1		ORGANISM_INTERACTION															560 minutes										England	GB																																			
+E23	E1		1		ORGANISM_INTERACTION															560 minutes										England	GB																																			
+E24	E1		1		ORGANISM_INTERACTION															560 minutes										England	GB																																			
+E25	E1		1		ORGANISM_INTERACTION															560 minutes										England	GB																																			
+E26	E1		1		ORGANISM_INTERACTION															820 minutes										England	GB																																			
+E27	E1		1		ORGANISM_INTERACTION															820 minutes										England	GB																																			
+E28	E1		1		ORGANISM_INTERACTION															2400 minutes										England	GB																																			
+E29	E1		1		ORGANISM_INTERACTION															2400 minutes										England	GB																																			
+E30	E1		1		ORGANISM_INTERACTION															2400 minutes										England	GB																																			
+E31	E1		1		ORGANISM_INTERACTION															2400 minutes										England	GB																																			
+E32	E1		1		ORGANISM_INTERACTION															2400 minutes										England	GB																																			
+E33	E1		1		ORGANISM_INTERACTION															2400 minutes										England	GB																																			
+E34	E1		1		ORGANISM_INTERACTION															20 minutes										England	GB																																			
+E35	E1		1		ORGANISM_INTERACTION															20 minutes										England	GB																																			
+E36	E1		1		ORGANISM_INTERACTION															40 minutes										England	GB																																			
+E37	E1		1		ORGANISM_INTERACTION															140 minutes										England	GB																																			
+E38	E1		1		ORGANISM_INTERACTION															200 minutes										England	GB																																			
+E39	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E40	E1		1		ORGANISM_INTERACTION															360 minutes										England	GB																																			
+E41	E1		1		ORGANISM_INTERACTION															360 minutes										England	GB																																			
+E42	E1		1		ORGANISM_INTERACTION															480 minutes										England	GB																																			
+E43	E1		1		ORGANISM_INTERACTION															520 minutes										England	GB																																			
+E44	E1		1		ORGANISM_INTERACTION															520 minutes										England	GB																																			
+E45	E1		1		ORGANISM_INTERACTION															520 minutes										England	GB																																			
+E46	E1		1		ORGANISM_INTERACTION															820 minutes										England	GB																																			
+E47	E1		1		ORGANISM_INTERACTION															820 minutes										England	GB																																			
+E48	E1		1		ORGANISM_INTERACTION															2400 minutes										England	GB																																			
+E49	E1		1		ORGANISM_INTERACTION															2400 minutes										England	GB																																			
+E50	E1		1		ORGANISM_INTERACTION															2400 minutes										England	GB																																			
+E51	E1		1		ORGANISM_INTERACTION															20 minutes										England	GB																																			
+E52	E1		1		ORGANISM_INTERACTION															120 minutes										England	GB																																			
+E53	E1		1		ORGANISM_INTERACTION															360 minutes										England	GB																																			
+E54	E1		1		ORGANISM_INTERACTION															2400 minutes										England	GB																																			
+E55	E1		1		ORGANISM_INTERACTION															820 minutes										England	GB																																			
+E56	E1		1		ORGANISM_INTERACTION															200 minutes										England	GB																																			
+E57	E1		1		ORGANISM_INTERACTION															200 minutes										England	GB																																			
+E58	E1		1		ORGANISM_INTERACTION															480 minutes										England	GB																																			
+E59	E1		1		ORGANISM_INTERACTION															560 minutes										England	GB																																			
+E60	E1		1		ORGANISM_INTERACTION															400 minutes										England	GB																																			
+E61	E1		1		ORGANISM_INTERACTION															520 minutes										England	GB																																			
+E62	E1		1		ORGANISM_INTERACTION															200 minutes										England	GB																																			
+E63	E1		1		ORGANISM_INTERACTION															20 minutes										England	GB																																			
+E64	E1		1		ORGANISM_INTERACTION															60 minutes										England	GB																																			
+E65	E1		1		ORGANISM_INTERACTION															140 minutes										England	GB																																			
+E66	E1		1		ORGANISM_INTERACTION															140 minutes										England	GB																																			
+E67	E1		1		ORGANISM_INTERACTION															140 minutes										England	GB																																			
+E68	E1		1		ORGANISM_INTERACTION															140 minutes										England	GB																																			
+E69	E1		1		ORGANISM_INTERACTION															260 minutes										England	GB																																			
+E70	E1		1		ORGANISM_INTERACTION															260 minutes										England	GB																																			
+E71	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E72	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E73	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E74	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E75	E1		1		ORGANISM_INTERACTION															400 minutes										England	GB																																			
+E76	E1		1		ORGANISM_INTERACTION															1080 minutes										England	GB																																			
+E77	E1		1		ORGANISM_INTERACTION															1080 minutes										England	GB																																			
+E78	E1		1		ORGANISM_INTERACTION															1080 minutes										England	GB																																			
+E79	E1		1		ORGANISM_INTERACTION															1100 minutes										England	GB																																			
+E80	E1		1		ORGANISM_INTERACTION															1100 minutes										England	GB																																			
+E81	E1		1		ORGANISM_INTERACTION															1380 minutes										England	GB																																			
+E82	E1		1		ORGANISM_INTERACTION															3340 minutes										England	GB																																			
+E83	E1		1		ORGANISM_INTERACTION															3340 minutes										England	GB																																			
+E84	E1		1		ORGANISM_INTERACTION															3340 minutes										England	GB																																			
+E85	E1		1		ORGANISM_INTERACTION															3340 minutes										England	GB																																			
+E86	E1		1		ORGANISM_INTERACTION															3340 minutes										England	GB																																			
+E87	E1		1		ORGANISM_INTERACTION															3340 minutes										England	GB																																			
+E88	E1		1		ORGANISM_INTERACTION															140 minutes										England	GB																																			
+E89	E1		1		ORGANISM_INTERACTION															260 minutes										England	GB																																			
+E90	E1		1		ORGANISM_INTERACTION															400 minutes										England	GB																																			
+E91	E1		1		ORGANISM_INTERACTION															120 minutes										England	GB																																			
+E92	E1		1		ORGANISM_INTERACTION															740 minutes										England	GB																																			
+E93	E1		1		ORGANISM_INTERACTION															3340 minutes										England	GB																																			
+E94	E1		1		ORGANISM_INTERACTION															260 minutes										England	GB																																			
+E95	E1		1		ORGANISM_INTERACTION															40 minutes										England	GB																																			
+E96	E1		1		ORGANISM_INTERACTION															900 minutes										England	GB																																			
+E97	E1		1		ORGANISM_INTERACTION															20 minutes										England	GB																																			
+E98	E1		1		ORGANISM_INTERACTION															20 minutes										England	GB																																			
+E99	E1		1		ORGANISM_INTERACTION															20 minutes										England	GB																																			
+E100	E1		1		ORGANISM_INTERACTION															60 minutes										England	GB																																			
+E101	E1		1		ORGANISM_INTERACTION															60 minutes										England	GB																																			
+E102	E1		1		ORGANISM_INTERACTION															60 minutes										England	GB																																			
+E103	E1		1		ORGANISM_INTERACTION															200 minutes										England	GB																																			
+E104	E1		1		ORGANISM_INTERACTION															460 minutes										England	GB																																			
+E105	E1		1		ORGANISM_INTERACTION															900 minutes										England	GB																																			
+E106	E1		1		ORGANISM_INTERACTION															1040 minutes										England	GB																																			
+E107	E1		1		ORGANISM_INTERACTION															1040 minutes										England	GB																																			
+E108	E1		1		ORGANISM_INTERACTION															1200 minutes										England	GB																																			
+E109	E1		1		ORGANISM_INTERACTION															2260 minutes										England	GB																																			
+E110	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E111	E1		1		ORGANISM_INTERACTION															2260 minutes										England	GB																																			
+E112	E1		1		ORGANISM_INTERACTION															900 minutes										England	GB																																			
+E113	E1		1		ORGANISM_INTERACTION															40 minutes										England	GB																																			
+E114	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E115	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E116	E1		1		ORGANISM_INTERACTION															40 minutes										England	GB																																			
+E117	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E118	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E119	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E120	E1		1		ORGANISM_INTERACTION															120 minutes										England	GB																																			
+E121	E1		1		ORGANISM_INTERACTION															120 minutes										England	GB																																			
+E122	E1		1		ORGANISM_INTERACTION															120 minutes										England	GB																																			
+E123	E1		1		ORGANISM_INTERACTION															140 minutes										England	GB																																			
+E124	E1		1		ORGANISM_INTERACTION															140 minutes										England	GB																																			
+E125	E1		1		ORGANISM_INTERACTION															160 minutes										England	GB																																			
+E126	E1		1		ORGANISM_INTERACTION															160 minutes										England	GB																																			
+E127	E1		1		ORGANISM_INTERACTION															180 minutes										England	GB																																			
+E128	E1		1		ORGANISM_INTERACTION															220 minutes										England	GB																																			
+E129	E1		1		ORGANISM_INTERACTION															220 minutes										England	GB																																			
+E130	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E131	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E132	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E133	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E134	E1		1		ORGANISM_INTERACTION															400 minutes										England	GB																																			
+E135	E1		1		ORGANISM_INTERACTION															400 minutes										England	GB																																			
+E136	E1		1		ORGANISM_INTERACTION															400 minutes										England	GB																																			
+E137	E1		1		ORGANISM_INTERACTION															400 minutes										England	GB																																			
+E138	E1		1		ORGANISM_INTERACTION															400 minutes										England	GB																																			
+E139	E1		1		ORGANISM_INTERACTION															400 minutes										England	GB																																			
+E140	E1		1		ORGANISM_INTERACTION															500 minutes										England	GB																																			
+E141	E1		1		ORGANISM_INTERACTION															600 minutes										England	GB																																			
+E142	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E143	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E144	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E145	E1		1		ORGANISM_INTERACTION															160 minutes										England	GB																																			
+E146	E1		1		ORGANISM_INTERACTION															260 minutes										England	GB																																			
+E147	E1		1		ORGANISM_INTERACTION															260 minutes										England	GB																																			
+E148	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E149	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E150	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E151	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E152	E1		1		ORGANISM_INTERACTION															160 minutes										England	GB																																			
+E153	E1		1		ORGANISM_INTERACTION															160 minutes										England	GB																																			
+E154	E1		1		ORGANISM_INTERACTION															180 minutes										England	GB																																			
+E155	E1		1		ORGANISM_INTERACTION															260 minutes										England	GB																																			
+E156	E1		1		ORGANISM_INTERACTION															40 minutes										England	GB																																			
+E157	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E158	E1		1		ORGANISM_INTERACTION															160 minutes										England	GB																																			
+E159	E1		1		ORGANISM_INTERACTION															500 minutes										England	GB																																			
+E160	E1		1		ORGANISM_INTERACTION															640 minutes										England	GB																																			
+E161	E1		1		ORGANISM_INTERACTION															20 minutes										England	GB																																			
+E162	E1		1		ORGANISM_INTERACTION															20 minutes										England	GB																																			
+E163	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E164	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E165	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E166	E1		1		ORGANISM_INTERACTION															180 minutes										England	GB																																			
+E167	E1		1		ORGANISM_INTERACTION															180 minutes										England	GB																																			
+E168	E1		1		ORGANISM_INTERACTION															240 minutes										England	GB																																			
+E169	E1		1		ORGANISM_INTERACTION															360 minutes										England	GB																																			
+E170	E1		1		ORGANISM_INTERACTION															360 minutes										England	GB																																			
+E171	E1		1		ORGANISM_INTERACTION															440 minutes										England	GB																																			
+E172	E1		1		ORGANISM_INTERACTION															440 minutes										England	GB																																			
+E173	E1		1		ORGANISM_INTERACTION															440 minutes										England	GB																																			
+E174	E1		1		ORGANISM_INTERACTION															460 minutes										England	GB																																			
+E175	E1		1		ORGANISM_INTERACTION															460 minutes										England	GB																																			
+E176	E1		1		ORGANISM_INTERACTION															640 minutes										England	GB																																			
+E177	E1		1		ORGANISM_INTERACTION															640 minutes										England	GB																																			
+E178	E1		1		ORGANISM_INTERACTION															820 minutes										England	GB																																			
+E179	E1		1		ORGANISM_INTERACTION															820 minutes										England	GB																																			
+E180	E1		1		ORGANISM_INTERACTION															1400 minutes										England	GB																																			
+E181	E1		1		ORGANISM_INTERACTION															1400 minutes										England	GB																																			
+E182	E1		1		ORGANISM_INTERACTION															2900 minutes										England	GB																																			
+E183	E1		1		ORGANISM_INTERACTION															4820 minutes										England	GB																																			
+E184	E1		1		ORGANISM_INTERACTION															4820 minutes										England	GB																																			
+E185	E1		1		ORGANISM_INTERACTION															6000 minutes										England	GB																																			
+E186	E1		1		ORGANISM_INTERACTION															6000 minutes										England	GB																																			
+E187	E1		1		ORGANISM_INTERACTION															6000 minutes										England	GB																																			
+E188	E1		1		ORGANISM_INTERACTION															6000 minutes										England	GB																																			
+E189	E1		1		ORGANISM_INTERACTION															20 minutes										England	GB																																			
+E190	E1		1		ORGANISM_INTERACTION															60 minutes										England	GB																																			
+E191	E1		1		ORGANISM_INTERACTION															160 minutes										England	GB																																			
+E192	E1		1		ORGANISM_INTERACTION															640 minutes										England	GB																																			
+E193	E1		1		ORGANISM_INTERACTION															640 minutes										England	GB																																			
+E194	E1		1		ORGANISM_INTERACTION															800 minutes										England	GB																																			
+E195	E1		1		ORGANISM_INTERACTION															2900 minutes										England	GB																																			
+E196	E1		1		ORGANISM_INTERACTION															4820 minutes										England	GB																																			
+E197	E1		1		ORGANISM_INTERACTION															240 minutes										England	GB																																			
+E198	E1		1		ORGANISM_INTERACTION															4820 minutes										England	GB																																			
+E199	E1		1		ORGANISM_INTERACTION															6000 minutes										England	GB																																			
+E200	E1		1		ORGANISM_INTERACTION															6000 minutes										England	GB																																			
+E201	E1		1		ORGANISM_INTERACTION															2900 minutes										England	GB																																			
+E202	E1		1		ORGANISM_INTERACTION															180 minutes										England	GB																																			
+E203	E1		1		ORGANISM_INTERACTION															180 minutes										England	GB																																			
+E204	E1		1		ORGANISM_INTERACTION															180 minutes										England	GB																																			
+E205	E1		1		ORGANISM_INTERACTION															1040 minutes										England	GB																																			
+E206	E1		1		ORGANISM_INTERACTION															60 minutes										England	GB																																			
+E207	E1		1		ORGANISM_INTERACTION															60 minutes										England	GB																																			
+E208	E1		1		ORGANISM_INTERACTION															60 minutes										England	GB																																			
+E209	E1		1		ORGANISM_INTERACTION															60 minutes										England	GB																																			
+E210	E1		1		ORGANISM_INTERACTION															60 minutes										England	GB																																			
+E211	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E212	E1		1		ORGANISM_INTERACTION															180 minutes										England	GB																																			
+E213	E1		1		ORGANISM_INTERACTION															180 minutes										England	GB																																			
+E214	E1		1		ORGANISM_INTERACTION															180 minutes										England	GB																																			
+E215	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E216	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E217	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E218	E1		1		ORGANISM_INTERACTION															500 minutes										England	GB																																			
+E219	E1		1		ORGANISM_INTERACTION															500 minutes										England	GB																																			
+E220	E1		1		ORGANISM_INTERACTION															500 minutes										England	GB																																			
+E221	E1		1		ORGANISM_INTERACTION															500 minutes										England	GB																																			
+E222	E1		1		ORGANISM_INTERACTION															520 minutes										England	GB																																			
+E223	E1		1		ORGANISM_INTERACTION															520 minutes										England	GB																																			
+E224	E1		1		ORGANISM_INTERACTION															540 minutes										England	GB																																			
+E225	E1		1		ORGANISM_INTERACTION															540 minutes										England	GB																																			
+E226	E1		1		ORGANISM_INTERACTION															540 minutes										England	GB																																			
+E227	E1		1		ORGANISM_INTERACTION															540 minutes										England	GB																																			
+E228	E1		1		ORGANISM_INTERACTION															560 minutes										England	GB																																			
+E229	E1		1		ORGANISM_INTERACTION															560 minutes										England	GB																																			
+E230	E1		1		ORGANISM_INTERACTION															900 minutes										England	GB																																			
+E231	E1		1		ORGANISM_INTERACTION															900 minutes										England	GB																																			
+E232	E1		1		ORGANISM_INTERACTION															1040 minutes										England	GB																																			
+E233	E1		1		ORGANISM_INTERACTION															1040 minutes										England	GB																																			
+E234	E1		1		ORGANISM_INTERACTION															1040 minutes										England	GB																																			
+E235	E1		1		ORGANISM_INTERACTION															1040 minutes										England	GB																																			
+E236	E1		1		ORGANISM_INTERACTION															2740 minutes										England	GB																																			
+E237	E1		1		ORGANISM_INTERACTION															2740 minutes										England	GB																																			
+E238	E1		1		ORGANISM_INTERACTION															3560 minutes										England	GB																																			
+E239	E1		1		ORGANISM_INTERACTION															3560 minutes										England	GB																																			
+E240	E1		1		ORGANISM_INTERACTION															3560 minutes										England	GB																																			
+E241	E1		1		ORGANISM_INTERACTION															3560 minutes										England	GB																																			
+E242	E1		1		ORGANISM_INTERACTION															1040 minutes										England	GB																																			
+E243	E1		1		ORGANISM_INTERACTION															4680 minutes										England	GB																																			
+E244	E1		1		ORGANISM_INTERACTION															4680 minutes										England	GB																																			
+E245	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E246	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E247	E1		1		ORGANISM_INTERACTION															700 minutes										England	GB																																			
+E248	E1		1		ORGANISM_INTERACTION															700 minutes										England	GB																																			
+E249	E1		1		ORGANISM_INTERACTION															60 minutes										England	GB																																			
+E250	E1		1		ORGANISM_INTERACTION															260 minutes										England	GB																																			
+E251	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E252	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E253	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E254	E1		1		ORGANISM_INTERACTION															500 minutes										England	GB																																			
+E255	E1		1		ORGANISM_INTERACTION															560 minutes										England	GB																																			
+E256	E1		1		ORGANISM_INTERACTION															180 minutes										England	GB																																			
+E257	E1		1		ORGANISM_INTERACTION															4680 minutes										England	GB																																			
+E258	E1		1		ORGANISM_INTERACTION															500 minutes										England	GB																																			
+E259	E1		1		ORGANISM_INTERACTION															520 minutes										England	GB																																			
+E260	E1		1		ORGANISM_INTERACTION															540 minutes										England	GB																																			
+E261	E1		1		ORGANISM_INTERACTION															140 minutes										England	GB																																			
+E262	E1		1		ORGANISM_INTERACTION															520 minutes										England	GB																																			
+E263	E1		1		ORGANISM_INTERACTION															540 minutes										England	GB																																			
+E264	E1		1		ORGANISM_INTERACTION															4680 minutes										England	GB																																			
+E265	E1		1		ORGANISM_INTERACTION															540 minutes										England	GB																																			
+E266	E1		1		ORGANISM_INTERACTION															3560 minutes										England	GB																																			
+E267	E1		1		ORGANISM_INTERACTION															260 minutes										England	GB																																			
+E268	E1		1		ORGANISM_INTERACTION															200 minutes										England	GB																																			
+E269	E1		1		ORGANISM_INTERACTION															240 minutes										England	GB																																			
+E270	E1		1		ORGANISM_INTERACTION															1400 minutes										England	GB																																			
+E271	E1		1		ORGANISM_INTERACTION															1400 minutes										England	GB																																			
+E272	E1		1		ORGANISM_INTERACTION															4400 minutes										England	GB																																			
+E273	E1		1		ORGANISM_INTERACTION															60 minutes										England	GB																																			
+E274	E1		1		ORGANISM_INTERACTION															60 minutes										England	GB																																			
+E275	E1		1		ORGANISM_INTERACTION															60 minutes										England	GB																																			
+E276	E1		1		ORGANISM_INTERACTION															60 minutes										England	GB																																			
+E277	E1		1		ORGANISM_INTERACTION															60 minutes										England	GB																																			
+E278	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E279	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E280	E1		1		ORGANISM_INTERACTION															100 minutes										England	GB																																			
+E281	E1		1		ORGANISM_INTERACTION															200 minutes										England	GB																																			
+E282	E1		1		ORGANISM_INTERACTION															200 minutes										England	GB																																			
+E283	E1		1		ORGANISM_INTERACTION															200 minutes										England	GB																																			
+E284	E1		1		ORGANISM_INTERACTION															220 minutes										England	GB																																			
+E285	E1		1		ORGANISM_INTERACTION															240 minutes										England	GB																																			
+E286	E1		1		ORGANISM_INTERACTION															240 minutes										England	GB																																			
+E287	E1		1		ORGANISM_INTERACTION															240 minutes										England	GB																																			
+E288	E1		1		ORGANISM_INTERACTION															240 minutes										England	GB																																			
+E289	E1		1		ORGANISM_INTERACTION															380 minutes										England	GB																																			
+E290	E1		1		ORGANISM_INTERACTION															380 minutes										England	GB																																			
+E291	E1		1		ORGANISM_INTERACTION															600 minutes										England	GB																																			
+E292	E1		1		ORGANISM_INTERACTION															600 minutes										England	GB																																			
+E293	E1		1		ORGANISM_INTERACTION															600 minutes										England	GB																																			
+E294	E1		1		ORGANISM_INTERACTION															640 minutes										England	GB																																			
+E295	E1		1		ORGANISM_INTERACTION															800 minutes										England	GB																																			
+E296	E1		1		ORGANISM_INTERACTION															1000 minutes										England	GB																																			
+E297	E1		1		ORGANISM_INTERACTION															1000 minutes										England	GB																																			
+E298	E1		1		ORGANISM_INTERACTION															1000 minutes										England	GB																																			
+E299	E1		1		ORGANISM_INTERACTION															1060 minutes										England	GB																																			
+E300	E1		1		ORGANISM_INTERACTION															1060 minutes										England	GB																																			
+E301	E1		1		ORGANISM_INTERACTION															1060 minutes										England	GB																																			
+E302	E1		1		ORGANISM_INTERACTION															1220 minutes										England	GB																																			
+E303	E1		1		ORGANISM_INTERACTION															1400 minutes										England	GB																																			
+E304	E1		1		ORGANISM_INTERACTION															1400 minutes										England	GB																																			
+E305	E1		1		ORGANISM_INTERACTION															1400 minutes										England	GB																																			
+E306	E1		1		ORGANISM_INTERACTION															1400 minutes										England	GB																																			
+E307	E1		1		ORGANISM_INTERACTION															1400 minutes										England	GB																																			
+E308	E1		1		ORGANISM_INTERACTION															1520 minutes										England	GB																																			
+E309	E1		1		ORGANISM_INTERACTION															1520 minutes										England	GB																																			
+E310	E1		1		ORGANISM_INTERACTION															1520 minutes										England	GB																																			
+E311	E1		1		ORGANISM_INTERACTION															2000 minutes										England	GB																																			
+E312	E1		1		ORGANISM_INTERACTION															2160 minutes										England	GB																																			
+E313	E1		1		ORGANISM_INTERACTION															2160 minutes										England	GB																																			
+E314	E1		1		ORGANISM_INTERACTION															2160 minutes										England	GB																																			
+E315	E1		1		ORGANISM_INTERACTION															2160 minutes										England	GB																																			
+E316	E1		1		ORGANISM_INTERACTION															2160 minutes										England	GB																																			
+E317	E1		1		ORGANISM_INTERACTION															4400 minutes										England	GB																																			
+E318	E1		1		ORGANISM_INTERACTION															4400 minutes										England	GB																																			
+E319	E1		1		ORGANISM_INTERACTION															4400 minutes										England	GB																																			
+E320	E1		1		ORGANISM_INTERACTION															800 minutes										England	GB																																			
+E321	E1		1		ORGANISM_INTERACTION															800 minutes										England	GB																																			
+E322	E1		1		ORGANISM_INTERACTION															1400 minutes										England	GB																																			
+E323	E1		1		ORGANISM_INTERACTION															1400 minutes										England	GB																																			
+E324	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E325	E1		1		ORGANISM_INTERACTION															100 minutes										England	GB																																			
+E326	E1		1		ORGANISM_INTERACTION															380 minutes										England	GB																																			
+E327	E1		1		ORGANISM_INTERACTION															800 minutes										England	GB																																			
+E328	E1		1		ORGANISM_INTERACTION															800 minutes										England	GB																																			
+E329	E1		1		ORGANISM_INTERACTION															1000 minutes										England	GB																																			
+E330	E1		1		ORGANISM_INTERACTION															1060 minutes										England	GB																																			
+E331	E1		1		ORGANISM_INTERACTION															1400 minutes										England	GB																																			
+E332	E1		1		ORGANISM_INTERACTION															1400 minutes										England	GB																																			
+E333	E1		1		ORGANISM_INTERACTION															1520 minutes										England	GB																																			
+E334	E1		1		ORGANISM_INTERACTION															1520 minutes										England	GB																																			
+E335	E1		1		ORGANISM_INTERACTION															1520 minutes										England	GB																																			
+E336	E1		1		ORGANISM_INTERACTION															2000 minutes										England	GB																																			
+E337	E1		1		ORGANISM_INTERACTION															100 minutes										England	GB																																			
+E338	E1		1		ORGANISM_INTERACTION															1400 minutes										England	GB																																			
+E339	E1		1		ORGANISM_INTERACTION															240 minutes										England	GB																																			
+E340	E1		1		ORGANISM_INTERACTION															4400 minutes										England	GB																																			
+E341	E1		1		ORGANISM_INTERACTION															600 minutes										England	GB																																			
+E342	E1		1		ORGANISM_INTERACTION															800 minutes										England	GB																																			
+E343	E1		1		ORGANISM_INTERACTION															1400 minutes										England	GB																																			
+E344	E1		1		ORGANISM_INTERACTION															1000 minutes										England	GB																																			
+E345	E1		1		ORGANISM_INTERACTION															800 minutes										England	GB																																			
+E346	E1		1		ORGANISM_INTERACTION															120 minutes										England	GB																																			
+E347	E1		1		ORGANISM_INTERACTION															140 minutes										England	GB																																			
+E348	E1		1		ORGANISM_INTERACTION															200 minutes										England	GB																																			
+E349	E1		1		ORGANISM_INTERACTION															200 minutes										England	GB																																			
+E350	E1		1		ORGANISM_INTERACTION															500 minutes										England	GB																																			
+E351	E1		1		ORGANISM_INTERACTION															700 minutes										England	GB																																			
+E352	E1		1		ORGANISM_INTERACTION															1400 minutes										England	GB																																			
+E353	E1		1		ORGANISM_INTERACTION															10000 minutes										England	GB																																			
+E354	E1		1		ORGANISM_INTERACTION															10000 minutes										England	GB																																			
+E355	E1		1		ORGANISM_INTERACTION															1940 minutes										England	GB																																			
+E356	E1		1		ORGANISM_INTERACTION															20 minutes										England	GB																																			
+E357	E1		1		ORGANISM_INTERACTION															20 minutes										England	GB																																			
+E358	E1		1		ORGANISM_INTERACTION															20 minutes										England	GB																																			
+E359	E1		1		ORGANISM_INTERACTION															40 minutes										England	GB																																			
+E360	E1		1		ORGANISM_INTERACTION															120 minutes										England	GB																																			
+E361	E1		1		ORGANISM_INTERACTION															140 minutes										England	GB																																			
+E362	E1		1		ORGANISM_INTERACTION															140 minutes										England	GB																																			
+E363	E1		1		ORGANISM_INTERACTION															180 minutes										England	GB																																			
+E364	E1		1		ORGANISM_INTERACTION															180 minutes										England	GB																																			
+E365	E1		1		ORGANISM_INTERACTION															200 minutes										England	GB																																			
+E366	E1		1		ORGANISM_INTERACTION															200 minutes										England	GB																																			
+E367	E1		1		ORGANISM_INTERACTION															200 minutes										England	GB																																			
+E368	E1		1		ORGANISM_INTERACTION															220 minutes										England	GB																																			
+E369	E1		1		ORGANISM_INTERACTION															220 minutes										England	GB																																			
+E370	E1		1		ORGANISM_INTERACTION															220 minutes										England	GB																																			
+E371	E1		1		ORGANISM_INTERACTION															240 minutes										England	GB																																			
+E372	E1		1		ORGANISM_INTERACTION															240 minutes										England	GB																																			
+E373	E1		1		ORGANISM_INTERACTION															240 minutes										England	GB																																			
+E374	E1		1		ORGANISM_INTERACTION															260 minutes										England	GB																																			
+E375	E1		1		ORGANISM_INTERACTION															260 minutes										England	GB																																			
+E376	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E377	E1		1		ORGANISM_INTERACTION															420 minutes										England	GB																																			
+E378	E1		1		ORGANISM_INTERACTION															500 minutes										England	GB																																			
+E379	E1		1		ORGANISM_INTERACTION															500 minutes										England	GB																																			
+E380	E1		1		ORGANISM_INTERACTION															500 minutes										England	GB																																			
+E381	E1		1		ORGANISM_INTERACTION															700 minutes										England	GB																																			
+E382	E1		1		ORGANISM_INTERACTION															700 minutes										England	GB																																			
+E383	E1		1		ORGANISM_INTERACTION															700 minutes										England	GB																																			
+E384	E1		1		ORGANISM_INTERACTION															700 minutes										England	GB																																			
+E385	E1		1		ORGANISM_INTERACTION															800 minutes										England	GB																																			
+E386	E1		1		ORGANISM_INTERACTION															800 minutes										England	GB																																			
+E387	E1		1		ORGANISM_INTERACTION															880 minutes										England	GB																																			
+E388	E1		1		ORGANISM_INTERACTION															920 minutes										England	GB																																			
+E389	E1		1		ORGANISM_INTERACTION															920 minutes										England	GB																																			
+E390	E1		1		ORGANISM_INTERACTION															920 minutes										England	GB																																			
+E391	E1		1		ORGANISM_INTERACTION															920 minutes										England	GB																																			
+E392	E1		1		ORGANISM_INTERACTION															920 minutes										England	GB																																			
+E393	E1		1		ORGANISM_INTERACTION															1400 minutes										England	GB																																			
+E394	E1		1		ORGANISM_INTERACTION															1400 minutes										England	GB																																			
+E395	E1		1		ORGANISM_INTERACTION															1600 minutes										England	GB																																			
+E396	E1		1		ORGANISM_INTERACTION															1600 minutes										England	GB																																			
+E397	E1		1		ORGANISM_INTERACTION															1760 minutes										England	GB																																			
+E398	E1		1		ORGANISM_INTERACTION															1760 minutes										England	GB																																			
+E399	E1		1		ORGANISM_INTERACTION															1940 minutes										England	GB																																			
+E400	E1		1		ORGANISM_INTERACTION															1940 minutes										England	GB																																			
+E401	E1		1		ORGANISM_INTERACTION															1940 minutes										England	GB																																			
+E402	E1		1		ORGANISM_INTERACTION															1960 minutes										England	GB																																			
+E403	E1		1		ORGANISM_INTERACTION															1960 minutes										England	GB																																			
+E404	E1		1		ORGANISM_INTERACTION															1960 minutes										England	GB																																			
+E405	E1		1		ORGANISM_INTERACTION															1960 minutes										England	GB																																			
+E406	E1		1		ORGANISM_INTERACTION															1960 minutes										England	GB																																			
+E407	E1		1		ORGANISM_INTERACTION															1960 minutes										England	GB																																			
+E408	E1		1		ORGANISM_INTERACTION															1960 minutes										England	GB																																			
+E409	E1		1		ORGANISM_INTERACTION															1960 minutes										England	GB																																			
+E410	E1		1		ORGANISM_INTERACTION															1960 minutes										England	GB																																			
+E411	E1		1		ORGANISM_INTERACTION															1960 minutes										England	GB																																			
+E412	E1		1		ORGANISM_INTERACTION															1960 minutes										England	GB																																			
+E413	E1		1		ORGANISM_INTERACTION															1960 minutes										England	GB																																			
+E414	E1		1		ORGANISM_INTERACTION															1960 minutes										England	GB																																			
+E415	E1		1		ORGANISM_INTERACTION															1960 minutes										England	GB																																			
+E416	E1		1		ORGANISM_INTERACTION															2800 minutes										England	GB																																			
+E417	E1		1		ORGANISM_INTERACTION															2800 minutes										England	GB																																			
+E418	E1		1		ORGANISM_INTERACTION															3720 minutes										England	GB																																			
+E419	E1		1		ORGANISM_INTERACTION															3720 minutes										England	GB																																			
+E420	E1		1		ORGANISM_INTERACTION															3720 minutes										England	GB																																			
+E421	E1		1		ORGANISM_INTERACTION															3720 minutes										England	GB																																			
+E422	E1		1		ORGANISM_INTERACTION															3720 minutes										England	GB																																			
+E423	E1		1		ORGANISM_INTERACTION															3720 minutes										England	GB																																			
+E424	E1		1		ORGANISM_INTERACTION															10000 minutes										England	GB																																			
+E425	E1		1		ORGANISM_INTERACTION															1400 minutes										England	GB																																			
+E426	E1		1		ORGANISM_INTERACTION															1940 minutes										England	GB																																			
+E427	E1		1		ORGANISM_INTERACTION															20 minutes										England	GB																																			
+E428	E1		1		ORGANISM_INTERACTION															120 minutes										England	GB																																			
+E429	E1		1		ORGANISM_INTERACTION															200 minutes										England	GB																																			
+E430	E1		1		ORGANISM_INTERACTION															220 minutes										England	GB																																			
+E431	E1		1		ORGANISM_INTERACTION															1960 minutes										England	GB																																			
+E432	E1		1		ORGANISM_INTERACTION															1960 minutes										England	GB																																			
+E433	E1		1		ORGANISM_INTERACTION															700 minutes										England	GB																																			
+E434	E1		1		ORGANISM_INTERACTION															500 minutes										England	GB																																			
+E435	E1		1		ORGANISM_INTERACTION															1120 minutes										England	GB																																			
+E436	E1		1		ORGANISM_INTERACTION															1960 minutes										England	GB																																			
+E437	E1		1		ORGANISM_INTERACTION															120 minutes										England	GB																																			
+E438	E1		1		ORGANISM_INTERACTION															1600 minutes										England	GB																																			
+E439	E1		1		ORGANISM_INTERACTION															200 minutes										England	GB																																			
+E440	E1		1		ORGANISM_INTERACTION															1600 minutes										England	GB																																			
+E441	E1		1		ORGANISM_INTERACTION															1960 minutes										England	GB																																			
+E442	E1		1		ORGANISM_INTERACTION															3720 minutes										England	GB																																			
+E443	E1		1		ORGANISM_INTERACTION															10000 minutes										England	GB																																			
+E444	E1		1		ORGANISM_INTERACTION															3720 minutes										England	GB																																			
+E445	E1		1		ORGANISM_INTERACTION															40 minutes										England	GB																																			
+E446	E1		1		ORGANISM_INTERACTION															180 minutes										England	GB																																			
+E447	E1		1		ORGANISM_INTERACTION															60 minutes										England	GB																																			
+E448	E1		1		ORGANISM_INTERACTION															60 minutes										England	GB																																			
+E449	E1		1		ORGANISM_INTERACTION															60 minutes										England	GB																																			
+E450	E1		1		ORGANISM_INTERACTION															140 minutes										England	GB																																			
+E451	E1		1		ORGANISM_INTERACTION															140 minutes										England	GB																																			
+E452	E1		1		ORGANISM_INTERACTION															140 minutes										England	GB																																			
+E453	E1		1		ORGANISM_INTERACTION															140 minutes										England	GB																																			
+E454	E1		1		ORGANISM_INTERACTION															160 minutes										England	GB																																			
+E455	E1		1		ORGANISM_INTERACTION															160 minutes										England	GB																																			
+E456	E1		1		ORGANISM_INTERACTION															180 minutes										England	GB																																			
+E457	E1		1		ORGANISM_INTERACTION															180 minutes										England	GB																																			
+E458	E1		1		ORGANISM_INTERACTION															180 minutes										England	GB																																			
+E459	E1		1		ORGANISM_INTERACTION															180 minutes										England	GB																																			
+E460	E1		1		ORGANISM_INTERACTION															180 minutes										England	GB																																			
+E461	E1		1		ORGANISM_INTERACTION															180 minutes										England	GB																																			
+E462	E1		1		ORGANISM_INTERACTION															180 minutes										England	GB																																			
+E463	E1		1		ORGANISM_INTERACTION															280 minutes										England	GB																																			
+E464	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E465	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E466	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E467	E1		1		ORGANISM_INTERACTION															320 minutes										England	GB																																			
+E468	E1		1		ORGANISM_INTERACTION															320 minutes										England	GB																																			
+E469	E1		1		ORGANISM_INTERACTION															320 minutes										England	GB																																			
+E470	E1		1		ORGANISM_INTERACTION															320 minutes										England	GB																																			
+E471	E1		1		ORGANISM_INTERACTION															320 minutes										England	GB																																			
+E472	E1		1		ORGANISM_INTERACTION															440 minutes										England	GB																																			
+E473	E1		1		ORGANISM_INTERACTION															660 minutes										England	GB																																			
+E474	E1		1		ORGANISM_INTERACTION															660 minutes										England	GB																																			
+E475	E1		1		ORGANISM_INTERACTION															660 minutes										England	GB																																			
+E476	E1		1		ORGANISM_INTERACTION															680 minutes										England	GB																																			
+E477	E1		1		ORGANISM_INTERACTION															860 minutes										England	GB																																			
+E478	E1		1		ORGANISM_INTERACTION															860 minutes										England	GB																																			
+E479	E1		1		ORGANISM_INTERACTION															860 minutes										England	GB																																			
+E480	E1		1		ORGANISM_INTERACTION															860 minutes										England	GB																																			
+E481	E1		1		ORGANISM_INTERACTION															860 minutes										England	GB																																			
+E482	E1		1		ORGANISM_INTERACTION															860 minutes										England	GB																																			
+E483	E1		1		ORGANISM_INTERACTION															860 minutes										England	GB																																			
+E484	E1		1		ORGANISM_INTERACTION															860 minutes										England	GB																																			
+E485	E1		1		ORGANISM_INTERACTION															1000 minutes										England	GB																																			
+E486	E1		1		ORGANISM_INTERACTION															1000 minutes										England	GB																																			
+E487	E1		1		ORGANISM_INTERACTION															1000 minutes										England	GB																																			
+E488	E1		1		ORGANISM_INTERACTION															1000 minutes										England	GB																																			
+E489	E1		1		ORGANISM_INTERACTION															1260 minutes										England	GB																																			
+E490	E1		1		ORGANISM_INTERACTION															1260 minutes										England	GB																																			
+E491	E1		1		ORGANISM_INTERACTION															1260 minutes										England	GB																																			
+E492	E1		1		ORGANISM_INTERACTION															1780 minutes										England	GB																																			
+E493	E1		1		ORGANISM_INTERACTION															1780 minutes										England	GB																																			
+E494	E1		1		ORGANISM_INTERACTION															1780 minutes										England	GB																																			
+E495	E1		1		ORGANISM_INTERACTION															2940 minutes										England	GB																																			
+E496	E1		1		ORGANISM_INTERACTION															3560 minutes										England	GB																																			
+E497	E1		1		ORGANISM_INTERACTION															4000 minutes										England	GB																																			
+E498	E1		1		ORGANISM_INTERACTION															4000 minutes										England	GB																																			
+E499	E1		1		ORGANISM_INTERACTION															4000 minutes										England	GB																																			
+E500	E1		1		ORGANISM_INTERACTION															4800 minutes										England	GB																																			
+E501	E1		1		ORGANISM_INTERACTION															5080 minutes										England	GB																																			
+E502	E1		1		ORGANISM_INTERACTION															5080 minutes										England	GB																																			
+E503	E1		1		ORGANISM_INTERACTION															5080 minutes										England	GB																																			
+E504	E1		1		ORGANISM_INTERACTION															5080 minutes										England	GB																																			
+E505	E1		1		ORGANISM_INTERACTION															5080 minutes										England	GB																																			
+E506	E1		1		ORGANISM_INTERACTION															5080 minutes										England	GB																																			
+E507	E1		1		ORGANISM_INTERACTION															5080 minutes										England	GB																																			
+E508	E1		1		ORGANISM_INTERACTION															5080 minutes										England	GB																																			
+E509	E1		1		ORGANISM_INTERACTION															1260 minutes										England	GB																																			
+E510	E1		1		ORGANISM_INTERACTION															1260 minutes										England	GB																																			
+E511	E1		1		ORGANISM_INTERACTION															60 minutes										England	GB																																			
+E512	E1		1		ORGANISM_INTERACTION															160 minutes										England	GB																																			
+E513	E1		1		ORGANISM_INTERACTION															180 minutes										England	GB																																			
+E514	E1		1		ORGANISM_INTERACTION															180 minutes										England	GB																																			
+E515	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E516	E1		1		ORGANISM_INTERACTION															320 minutes										England	GB																																			
+E517	E1		1		ORGANISM_INTERACTION															320 minutes										England	GB																																			
+E518	E1		1		ORGANISM_INTERACTION															440 minutes										England	GB																																			
+E519	E1		1		ORGANISM_INTERACTION															860 minutes										England	GB																																			
+E520	E1		1		ORGANISM_INTERACTION															1260 minutes										England	GB																																			
+E521	E1		1		ORGANISM_INTERACTION															1260 minutes										England	GB																																			
+E522	E1		1		ORGANISM_INTERACTION															1780 minutes										England	GB																																			
+E523	E1		1		ORGANISM_INTERACTION															3560 minutes										England	GB																																			
+E524	E1		1		ORGANISM_INTERACTION															3560 minutes										England	GB																																			
+E525	E1		1		ORGANISM_INTERACTION															5080 minutes										England	GB																																			
+E526	E1		1		ORGANISM_INTERACTION															180 minutes										England	GB																																			
+E527	E1		1		ORGANISM_INTERACTION															140 minutes										England	GB																																			
+E528	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E529	E1		1		ORGANISM_INTERACTION															3560 minutes										England	GB																																			
+E530	E1		1		ORGANISM_INTERACTION															4000 minutes										England	GB																																			
+E531	E1		1		ORGANISM_INTERACTION															15000 minutes										England	GB																																			
+E532	E1		1		ORGANISM_INTERACTION															1260 minutes										England	GB																																			
+E533	E1		1		ORGANISM_INTERACTION															3560 minutes										England	GB																																			
+E534	E1		1		ORGANISM_INTERACTION															180 minutes										England	GB																																			
+E535	E1		1		ORGANISM_INTERACTION															40 minutes										England	GB																																			
+E536	E1		1		ORGANISM_INTERACTION															960 minutes										England	GB																																			
+E537	E1		1		ORGANISM_INTERACTION															6400 minutes										England	GB																																			
+E538	E1		1		ORGANISM_INTERACTION															20 minutes										England	GB																																			
+E539	E1		1		ORGANISM_INTERACTION															40 minutes										England	GB																																			
+E540	E1		1		ORGANISM_INTERACTION															40 minutes										England	GB																																			
+E541	E1		1		ORGANISM_INTERACTION															100 minutes										England	GB																																			
+E542	E1		1		ORGANISM_INTERACTION															100 minutes										England	GB																																			
+E543	E1		1		ORGANISM_INTERACTION															120 minutes										England	GB																																			
+E544	E1		1		ORGANISM_INTERACTION															120 minutes										England	GB																																			
+E545	E1		1		ORGANISM_INTERACTION															120 minutes										England	GB																																			
+E546	E1		1		ORGANISM_INTERACTION															120 minutes										England	GB																																			
+E547	E1		1		ORGANISM_INTERACTION															120 minutes										England	GB																																			
+E548	E1		1		ORGANISM_INTERACTION															260 minutes										England	GB																																			
+E549	E1		1		ORGANISM_INTERACTION															280 minutes										England	GB																																			
+E550	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E551	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E552	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E553	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E554	E1		1		ORGANISM_INTERACTION															400 minutes										England	GB																																			
+E555	E1		1		ORGANISM_INTERACTION															400 minutes										England	GB																																			
+E556	E1		1		ORGANISM_INTERACTION															400 minutes										England	GB																																			
+E557	E1		1		ORGANISM_INTERACTION															420 minutes										England	GB																																			
+E558	E1		1		ORGANISM_INTERACTION															420 minutes										England	GB																																			
+E559	E1		1		ORGANISM_INTERACTION															420 minutes										England	GB																																			
+E560	E1		1		ORGANISM_INTERACTION															500 minutes										England	GB																																			
+E561	E1		1		ORGANISM_INTERACTION															500 minutes										England	GB																																			
+E562	E1		1		ORGANISM_INTERACTION															500 minutes										England	GB																																			
+E563	E1		1		ORGANISM_INTERACTION															740 minutes										England	GB																																			
+E564	E1		1		ORGANISM_INTERACTION															840 minutes										England	GB																																			
+E565	E1		1		ORGANISM_INTERACTION															840 minutes										England	GB																																			
+E566	E1		1		ORGANISM_INTERACTION															920 minutes										England	GB																																			
+E567	E1		1		ORGANISM_INTERACTION															920 minutes										England	GB																																			
+E568	E1		1		ORGANISM_INTERACTION															960 minutes										England	GB																																			
+E569	E1		1		ORGANISM_INTERACTION															960 minutes										England	GB																																			
+E570	E1		1		ORGANISM_INTERACTION															960 minutes										England	GB																																			
+E571	E1		1		ORGANISM_INTERACTION															960 minutes										England	GB																																			
+E572	E1		1		ORGANISM_INTERACTION															960 minutes										England	GB																																			
+E573	E1		1		ORGANISM_INTERACTION															960 minutes										England	GB																																			
+E574	E1		1		ORGANISM_INTERACTION															1420 minutes										England	GB																																			
+E575	E1		1		ORGANISM_INTERACTION															1420 minutes										England	GB																																			
+E576	E1		1		ORGANISM_INTERACTION															1420 minutes										England	GB																																			
+E577	E1		1		ORGANISM_INTERACTION															1420 minutes										England	GB																																			
+E578	E1		1		ORGANISM_INTERACTION															5400 minutes										England	GB																																			
+E579	E1		1		ORGANISM_INTERACTION															5400 minutes										England	GB																																			
+E580	E1		1		ORGANISM_INTERACTION															5400 minutes										England	GB																																			
+E581	E1		1		ORGANISM_INTERACTION															5400 minutes										England	GB																																			
+E582	E1		1		ORGANISM_INTERACTION															5400 minutes										England	GB																																			
+E583	E1		1		ORGANISM_INTERACTION															5400 minutes										England	GB																																			
+E584	E1		1		ORGANISM_INTERACTION															5400 minutes										England	GB																																			
+E585	E1		1		ORGANISM_INTERACTION															960 minutes										England	GB																																			
+E586	E1		1		ORGANISM_INTERACTION															840 minutes										England	GB																																			
+E587	E1		1		ORGANISM_INTERACTION															6400 minutes										England	GB																																			
+E588	E1		1		ORGANISM_INTERACTION															5400 minutes										England	GB																																			
+E589	E1		1		ORGANISM_INTERACTION															5400 minutes										England	GB																																			
+E590	E1		1		ORGANISM_INTERACTION															5400 minutes										England	GB																																			
+E591	E1		1		ORGANISM_INTERACTION															5400 minutes										England	GB																																			
+E592	E1		1		ORGANISM_INTERACTION															400 minutes										England	GB																																			
+E593	E1		1		ORGANISM_INTERACTION															500 minutes										England	GB																																			
+E594	E1		1		ORGANISM_INTERACTION															500 minutes										England	GB																																			
+E595	E1		1		ORGANISM_INTERACTION															120 minutes										England	GB																																			
+E596	E1		1		ORGANISM_INTERACTION															120 minutes										England	GB																																			
+E597	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E598	E1		1		ORGANISM_INTERACTION															400 minutes										England	GB																																			
+E599	E1		1		ORGANISM_INTERACTION															920 minutes										England	GB																																			
+E600	E1		1		ORGANISM_INTERACTION															1420 minutes										England	GB																																			
+E601	E1		1		ORGANISM_INTERACTION															6400 minutes										England	GB																																			
+E602	E1		1		ORGANISM_INTERACTION															6400 minutes										England	GB																																			
+E603	E1		1		ORGANISM_INTERACTION															400 minutes										England	GB																																			
+E604	E1		1		ORGANISM_INTERACTION															420 minutes										England	GB																																			
+E605	E1		1		ORGANISM_INTERACTION															1420 minutes										England	GB																																			
+E606	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E607	E1		1		ORGANISM_INTERACTION															5400 minutes										England	GB																																			
+E608	E1		1		ORGANISM_INTERACTION															840 minutes										England	GB																																			
+E609	E1		1		ORGANISM_INTERACTION															1420 minutes										England	GB																																			
+E610	E1		1		ORGANISM_INTERACTION															6400 minutes										England	GB																																			
+E611	E1		1		ORGANISM_INTERACTION															960 minutes										England	GB																																			
+E612	E1		1		ORGANISM_INTERACTION															5400 minutes										England	GB																																			
+E613	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E614	E1		1		ORGANISM_INTERACTION															820 minutes										England	GB																																			
+E615	E1		1		ORGANISM_INTERACTION															820 minutes										England	GB																																			
+E616	E1		1		ORGANISM_INTERACTION															820 minutes										England	GB																																			
+E617	E1		1		ORGANISM_INTERACTION															1060 minutes										England	GB																																			
+E618	E1		1		ORGANISM_INTERACTION															1300 minutes										England	GB																																			
+E619	E1		1		ORGANISM_INTERACTION															1300 minutes										England	GB																																			
+E620	E1		1		ORGANISM_INTERACTION															1300 minutes										England	GB																																			
+E621	E1		1		ORGANISM_INTERACTION															1300 minutes										England	GB																																			
+E622	E1		1		ORGANISM_INTERACTION															1520 minutes										England	GB																																			
+E623	E1		1		ORGANISM_INTERACTION															40 minutes										England	GB																																			
+E624	E1		1		ORGANISM_INTERACTION															40 minutes										England	GB																																			
+E625	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E626	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E627	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E628	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E629	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E630	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E631	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E632	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E633	E1		1		ORGANISM_INTERACTION															200 minutes										England	GB																																			
+E634	E1		1		ORGANISM_INTERACTION															200 minutes										England	GB																																			
+E635	E1		1		ORGANISM_INTERACTION															200 minutes										England	GB																																			
+E636	E1		1		ORGANISM_INTERACTION															280 minutes										England	GB																																			
+E637	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E638	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E639	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E640	E1		1		ORGANISM_INTERACTION															320 minutes										England	GB																																			
+E641	E1		1		ORGANISM_INTERACTION															320 minutes										England	GB																																			
+E642	E1		1		ORGANISM_INTERACTION															320 minutes										England	GB																																			
+E643	E1		1		ORGANISM_INTERACTION															320 minutes										England	GB																																			
+E644	E1		1		ORGANISM_INTERACTION															520 minutes										England	GB																																			
+E645	E1		1		ORGANISM_INTERACTION															520 minutes										England	GB																																			
+E646	E1		1		ORGANISM_INTERACTION															540 minutes										England	GB																																			
+E647	E1		1		ORGANISM_INTERACTION															540 minutes										England	GB																																			
+E648	E1		1		ORGANISM_INTERACTION															540 minutes										England	GB																																			
+E649	E1		1		ORGANISM_INTERACTION															620 minutes										England	GB																																			
+E650	E1		1		ORGANISM_INTERACTION															1300 minutes										England	GB																																			
+E651	E1		1		ORGANISM_INTERACTION															1300 minutes										England	GB																																			
+E652	E1		1		ORGANISM_INTERACTION															1300 minutes										England	GB																																			
+E653	E1		1		ORGANISM_INTERACTION															1460 minutes										England	GB																																			
+E654	E1		1		ORGANISM_INTERACTION															1460 minutes										England	GB																																			
+E655	E1		1		ORGANISM_INTERACTION															1520 minutes										England	GB																																			
+E656	E1		1		ORGANISM_INTERACTION															2000 minutes										England	GB																																			
+E657	E1		1		ORGANISM_INTERACTION															2000 minutes										England	GB																																			
+E658	E1		1		ORGANISM_INTERACTION															1060 minutes										England	GB																																			
+E659	E1		1		ORGANISM_INTERACTION															1520 minutes										England	GB																																			
+E660	E1		1		ORGANISM_INTERACTION															1520 minutes										England	GB																																			
+E661	E1		1		ORGANISM_INTERACTION															1300 minutes										England	GB																																			
+E662	E1		1		ORGANISM_INTERACTION															740 minutes										England	GB																																			
+E663	E1		1		ORGANISM_INTERACTION															740 minutes										England	GB																																			
+E664	E1		1		ORGANISM_INTERACTION															40 minutes										England	GB																																			
+E665	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E666	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E667	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E668	E1		1		ORGANISM_INTERACTION															200 minutes										England	GB																																			
+E669	E1		1		ORGANISM_INTERACTION															240 minutes										England	GB																																			
+E670	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E671	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E672	E1		1		ORGANISM_INTERACTION															740 minutes										England	GB																																			
+E673	E1		1		ORGANISM_INTERACTION															1520 minutes										England	GB																																			
+E674	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E675	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E676	E1		1		ORGANISM_INTERACTION															240 minutes										England	GB																																			
+E677	E1		1		ORGANISM_INTERACTION															820 minutes										England	GB																																			
+E678	E1		1		ORGANISM_INTERACTION															80 minutes										England	GB																																			
+E679	E1		1		ORGANISM_INTERACTION															300 minutes										England	GB																																			
+E680	E1		1		ORGANISM_INTERACTION															520 minutes										England	GB																																			
+E681	E1		1		ORGANISM_INTERACTION															1300 minutes										England	GB																																			
+E682	E1		1		ORGANISM_INTERACTION															1520 minutes										England	GB																																			
+E683	E1		1		ORGANISM_INTERACTION															540 minutes										England	GB																																			
+E684	E1		1		ORGANISM_INTERACTION															60 minutes										England	GB																																			
+E685	E1		1		ORGANISM_INTERACTION															240 minutes										England	GB																																			
+E686	E1		1		ORGANISM_INTERACTION															820 minutes										England	GB																																			
