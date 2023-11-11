@@ -1,69 +1,14 @@
 -- foreign key checking deferred due to circular dependencies
 BEGIN;
-DROP TABLE bi_pub_location;
-DROP TABLE bi_pub_assertion;
-DROP TABLE bi_pub_organism_interaction;
-DROP TABLE bi_pub_event;
-DROP TABLE bi_pub_organism;
-DROP TABLE bi_pub_material_entity;
-
--- Create the bi_pub_location table
-SELECT
-location.location_id,
-parent_location_id,
-higher_geography_id,
-higher_geography,
-continent,
-water_body,
-island_group,
-island,
-country,
-country_code,
-state_province,
-county,
-municipality,
-locality,
-minimum_elevation_in_meters,
-maximum_elevation_in_meters,
-minimum_distance_above_surface_in_meters,
-maximum_distance_above_surface_in_meters,
-minimum_depth_in_meters,
-maximum_depth_in_meters,
-vertical_datum,
-location_according_to,
-location_remarks,
-decimal_latitude,
-decimal_longitude,
-geodetic_datum,
-coordinate_uncertainty_in_meters,
-coordinate_precision,
-point_radius_spatial_fit,
-footprint_wkt,
-footprint_srs,
-footprint_spatial_fit,
-georeferenced_by,
-georeferenced_date,
-georeference_protocol,
-georeference_sources,
-georeference_remarks,
-preferred_spatial_representation
-INTO TABLE bi_pub_location
-FROM
-location LEFT OUTER JOIN georeference on location.location_id = georeference.location_id;
-
--- Export the bi_pub_location table
-COPY
-(
-SELECT *
-FROM bi_pub_location
-)
-TO '/Users/johnwieczorek/Projects/model-interactions/conabio-bees/publishing-model-data/location.csv' 
-WITH CSV 
-DELIMITER ',' 
-HEADER;
+DROP TABLE IF EXISTS bi_pub_assertion;
+DROP TABLE IF EXISTS bi_pub_organism_interaction;
+DROP TABLE IF EXISTS bi_pub_event;
+DROP TABLE IF EXISTS bi_pub_organism;
+DROP TABLE IF EXISTS bi_pub_material_entity;
 
 -- Create the bi_pub_assertion table with the first assertion_type
 SELECT 
+GEN_RANDOM_UUID() AS assertion_id,
 organism_id AS assertion_target_id,
 'ORGANISM' AS assertion_target_type,
 'sex' AS assertion_type,
@@ -86,11 +31,12 @@ WHERE
 occurrence_id=event_id;
 
 -- Append to the bi_pub_assertion table with the next assertion_type
-INSERT INTO bi_pub_assertion (assertion_target_id, assertion_target_type, assertion_type, assertion_value, assertion_value_numeric, assertion_unit, assertion_made_date, assertion_effective_date, assertion_by_agent_name, assertion_by_agent_id, assertion_protocol, assertion_protocol_id, assertion_citation, assertion_remarks)
+INSERT INTO bi_pub_assertion (assertion_id, assertion_target_id, assertion_target_type, assertion_type, assertion_value, assertion_value_numeric, assertion_unit, assertion_made_date, assertion_effective_date, assertion_by_agent_name, assertion_by_agent_id, assertion_protocol, assertion_protocol_id, assertion_citation, assertion_remarks)
 SELECT 
+GEN_RANDOM_UUID() AS assertion_id,
 organism_id AS assertion_target_id,
 'ORGANISM' AS assertion_target_type,
-'organism_quantity' AS assertion_type,
+'organismQuantity' AS assertion_type,
 NULL AS assertion_value,
 organism_quantity AS assertion_value_numeric,
 organism_quantity_type AS assertion_unit,
@@ -149,7 +95,7 @@ SELECT
 event.event_id,
 parent_event_id,
 dataset_id,
-location_id,
+event.location_id AS location_id,
 protocol_id,
 'ORGANISM_INTERACTION' AS event_type,
 event_name,
@@ -157,18 +103,11 @@ recorded_by,
 recorded_by_id,
 field_number,
 event_date,
+NULL AS event_time,
 year,
 month,
 day,
 verbatim_event_date,
-verbatim_locality,
-verbatim_elevation,
-verbatim_depth,
-verbatim_coordinates,
-verbatim_latitude,
-verbatim_longitude,
-verbatim_coordinate_system,
-verbatim_srs,
 habitat,
 protocol_description,
 sample_size_value,
@@ -176,14 +115,60 @@ sample_size_unit,
 event_effort,
 field_notes,
 NULL AS event_citation,
-event_remarks
+event_remarks,
+higher_geography_id,
+higher_geography,
+continent,
+water_body,
+island_group,
+island,
+country,
+country_code,
+state_province,
+county,
+municipality,
+locality,
+verbatim_locality,
+minimum_elevation_in_meters,
+maximum_elevation_in_meters,
+verbatim_elevation,
+minimum_distance_above_surface_in_meters,
+maximum_distance_above_surface_in_meters,
+minimum_depth_in_meters,
+maximum_depth_in_meters,
+verbatim_depth,
+vertical_datum,
+location_according_to,
+location_remarks,
+decimal_latitude,
+decimal_longitude,
+geodetic_datum,
+coordinate_uncertainty_in_meters,
+coordinate_precision,
+point_radius_spatial_fit,
+verbatim_coordinates,
+verbatim_latitude,
+verbatim_longitude,
+verbatim_coordinate_system,
+verbatim_srs,
+footprint_wkt,
+footprint_srs,
+footprint_spatial_fit,
+georeferenced_by,
+georeferenced_date,
+georeference_protocol,
+georeference_sources,
+georeference_remarks,
+preferred_spatial_representation
 INTO TABLE bi_pub_event
 FROM
 event,
 occurrence,
-bi_pub_organism_interaction
+bi_pub_organism_interaction,
+location LEFT OUTER JOIN georeference on location.location_id = georeference.location_id
 WHERE
 event.event_id=bi_pub_organism_interaction.event_id AND
+event.location_id=location.location_id AND
 event.event_id=occurrence_id;
 
 -- Export the bi_pub_event table
@@ -200,7 +185,7 @@ HEADER;
 -- Create the bi_pub_organism table
 SELECT 
 organism.organism_id,
-'individual' AS organism_scope,
+'multicellular organism' AS organism_scope,
 NULL AS organism_name,
 NULL AS organism_remarks,
 scientific_name AS verbatim_identification,
@@ -230,6 +215,8 @@ HEADER;
 -- Create the bi_pub_material_entity table
 SELECT
 material_entity_id,
+NULL material_entity_source_id,
+NULL material_entity_source_type,
 material_entity_type,
 preparations,
 disposition,
