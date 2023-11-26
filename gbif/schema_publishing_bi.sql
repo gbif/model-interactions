@@ -32,9 +32,10 @@ CREATE TYPE COMMON_TARGETS AS ENUM (
 
 CREATE TABLE material_entity (
   material_entity_id TEXT PRIMARY KEY,
-  material_entity_source_id TEXT,
-  material_entity_source_type COMMON_TARGETS,
   material_entity_type TEXT NOT NULL,
+  source_material_entity_id TEXT,
+  source_digital_media_id TEXT,
+  gathering_event_id TEXT,
   preparations TEXT,
   disposition TEXT,
   institution_code TEXT,
@@ -49,21 +50,23 @@ CREATE TABLE material_entity (
   associated_references TEXT,
   associated_sequences TEXT,
   other_catalog_numbers TEXT,
-  material_citation TEXT,
   material_entity_remarks TEXT
 );
-CREATE INDEX ON material_entity(material_entity_source_id);
-CREATE INDEX ON material_entity(material_entity_source_type);
+CREATE INDEX ON material_entity(source_material_entity_id);
+CREATE INDEX ON material_entity(source_digital_media_id);
+CREATE INDEX ON material_entity(gathering_event_id);
 CREATE INDEX ON material_entity(material_entity_type);
 
 
 -- Organism (https://dwc.tdwg.org/terms/#organism)
 --   A subtype of MaterialEntity
+--     However, in the publishing model it is not necessary to create a MaterialEntity 
+--     parent of an Organism if not material was collected.
 --   A particular organism or defined group of organisms considered to be taxonomically 
 --   homogeneous.
 
 CREATE TABLE organism (
-  organism_id TEXT PRIMARY KEY REFERENCES material_entity ON DELETE CASCADE DEFERRABLE,
+  organism_id TEXT PRIMARY KEY,
   organism_scope TEXT,
   organism_name TEXT,
   organism_remarks TEXT,
@@ -201,9 +204,8 @@ CREATE TYPE DIGITAL_MEDIA_TYPE AS ENUM (
 
 CREATE TABLE digital_media (
   digital_media_id TEXT PRIMARY KEY,
-  digital_media_subject_id TEXT,
-  digital_media_subject_type COMMON_TARGETS NOT NULL,
   digital_media_type DIGITAL_MEDIA_TYPE NOT NULL,
+  event_id TEXT,
   access_uri TEXT NOT NULL,
   web_statement TEXT,
   format TEXT,
@@ -211,7 +213,7 @@ CREATE TABLE digital_media (
   rights TEXT,
   rights_uri TEXT,
   access_rights TEXT,
-  rights_holder TEXT,
+  owner TEXT,
   source TEXT,
   source_uri TEXT,
   creator TEXT,
@@ -221,9 +223,7 @@ CREATE TABLE digital_media (
   bibliographic_citation TEXT
 );
 CREATE INDEX ON digital_media(digital_media_type);
-CREATE INDEX ON digital_media(digital_media_subject_id);
-CREATE INDEX ON digital_media(digital_media_subject_type);
-CREATE INDEX ON digital_media(digital_media_type);
+CREATE INDEX ON digital_media(event_id);
 
 -- DigitalMedia
 --   A subtype of Entity
@@ -231,13 +231,13 @@ CREATE INDEX ON digital_media(digital_media_type);
 
 CREATE TABLE genetic_sequence (
   genetic_sequence_id TEXT PRIMARY KEY,
-  material_entity_source_id TEXT REFERENCES material_entity ON DELETE CASCADE DEFERRABLE,
+  source_material_entity_id TEXT REFERENCES material_entity ON DELETE CASCADE DEFERRABLE,
   genetic_sequence_type TEXT,
   genetic_sequence TEXT,
   genetic_sequence_citation TEXT,
   genetic_sequence_reamrks TEXT
 );
-CREATE INDEX ON genetic_sequence(material_entity_source_id);
+CREATE INDEX ON genetic_sequence(source_material_entity_id);
 CREATE INDEX ON genetic_sequence(genetic_sequence_type);
 
 ---
@@ -246,14 +246,14 @@ CREATE INDEX ON genetic_sequence(genetic_sequence_type);
 
 -- Assertion
 --    An observation, measurement, or other statement made by an Agent with respect to a 
---    thing. Can be attached to any other table that has a primary key. Put key value in
---    assertion_target_id and a COMMON_TARGETS enum value matching the table where the 
---    key resides.
+--    thing. In the Unified model, Assertions can be attached to any other table that has 
+--    a primary key. In this publishing model, distinct Assertion tables are added for 
+--    each table they can be attached to.
 
-CREATE TABLE "assertion" (
+CREATE TABLE digital_media_assertion (
   assertion_id TEXT PRIMARY KEY,
-  assertion_target_id TEXT NOT NULL,
-  assertion_target_type COMMON_TARGETS NOT NULL,
+  parent_assertion_id TEXT,
+  digital_media_id TEXT NOT NULL,
   assertion_type TEXT NOT NULL,
   assertion_value TEXT,
   assertion_value_numeric NUMERIC,
@@ -267,6 +267,105 @@ CREATE TABLE "assertion" (
   assertion_citation TEXT,
   assertion_remarks TEXT
 );
-CREATE INDEX ON "assertion"(assertion_target_id);
-CREATE INDEX ON "assertion"(assertion_target_type);
-CREATE INDEX ON "assertion"(assertion_type);
+CREATE INDEX ON digital_media_assertion(digital_media_id);
+CREATE INDEX ON digital_media_assertion(assertion_type);
+
+CREATE TABLE event_assertion (
+  assertion_id TEXT PRIMARY KEY,
+  parent_assertion_id TEXT,
+  event_id TEXT NOT NULL,
+  assertion_type TEXT NOT NULL,
+  assertion_value TEXT,
+  assertion_value_numeric NUMERIC,
+  assertion_unit TEXT,
+  assertion_made_date TEXT,
+  assertion_effective_date TEXT,
+  assertion_by_agent_name TEXT, 
+  assertion_by_agent_id TEXT,
+  assertion_protocol TEXT,
+  assertion_protocol_id TEXT,
+  assertion_citation TEXT,
+  assertion_remarks TEXT
+);
+CREATE INDEX ON event_assertion(event_id);
+CREATE INDEX ON event_assertion(assertion_type);
+
+CREATE TABLE genetic_sequence_assertion (
+  assertion_id TEXT PRIMARY KEY,
+  parent_assertion_id TEXT,
+  genetic_sequence_id TEXT NOT NULL,
+  assertion_type TEXT NOT NULL,
+  assertion_value TEXT,
+  assertion_value_numeric NUMERIC,
+  assertion_unit TEXT,
+  assertion_made_date TEXT,
+  assertion_effective_date TEXT,
+  assertion_by_agent_name TEXT, 
+  assertion_by_agent_id TEXT,
+  assertion_protocol TEXT,
+  assertion_protocol_id TEXT,
+  assertion_citation TEXT,
+  assertion_remarks TEXT
+);
+CREATE INDEX ON genetic_sequence_assertion(genetic_sequence_id);
+CREATE INDEX ON genetic_sequence_assertion(assertion_type);
+
+CREATE TABLE material_entity_assertion (
+  assertion_id TEXT PRIMARY KEY,
+  parent_assertion_id TEXT,
+  material_entity_id TEXT NOT NULL,
+  assertion_type TEXT NOT NULL,
+  assertion_value TEXT,
+  assertion_value_numeric NUMERIC,
+  assertion_unit TEXT,
+  assertion_made_date TEXT,
+  assertion_effective_date TEXT,
+  assertion_by_agent_name TEXT, 
+  assertion_by_agent_id TEXT,
+  assertion_protocol TEXT,
+  assertion_protocol_id TEXT,
+  assertion_citation TEXT,
+  assertion_remarks TEXT
+);
+CREATE INDEX ON material_entity_assertion(material_entity_id);
+CREATE INDEX ON material_entity_assertion(assertion_type);
+
+CREATE TABLE organism_assertion (
+  assertion_id TEXT PRIMARY KEY,
+  parent_assertion_id TEXT,
+  organism_id TEXT NOT NULL,
+  assertion_type TEXT NOT NULL,
+  assertion_value TEXT,
+  assertion_value_numeric NUMERIC,
+  assertion_unit TEXT,
+  assertion_made_date TEXT,
+  assertion_effective_date TEXT,
+  assertion_by_agent_name TEXT, 
+  assertion_by_agent_id TEXT,
+  assertion_protocol TEXT,
+  assertion_protocol_id TEXT,
+  assertion_citation TEXT,
+  assertion_remarks TEXT
+);
+CREATE INDEX ON organism_assertion(organism_id);
+CREATE INDEX ON organism_assertion(assertion_type);
+
+CREATE TABLE organism_interaction_assertion (
+  assertion_id TEXT PRIMARY KEY,
+  parent_assertion_id TEXT,
+  event_id TEXT NOT NULL,
+  assertion_type TEXT NOT NULL,
+  assertion_value TEXT,
+  assertion_value_numeric NUMERIC,
+  assertion_unit TEXT,
+  assertion_made_date TEXT,
+  assertion_effective_date TEXT,
+  assertion_by_agent_name TEXT, 
+  assertion_by_agent_id TEXT,
+  assertion_protocol TEXT,
+  assertion_protocol_id TEXT,
+  assertion_citation TEXT,
+  assertion_remarks TEXT
+);
+CREATE INDEX ON organism_interaction_assertion(event_id);
+CREATE INDEX ON organism_interaction_assertion(assertion_type);

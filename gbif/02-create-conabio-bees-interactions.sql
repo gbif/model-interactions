@@ -1,16 +1,16 @@
 -- foreign key checking deferred due to circular dependencies
 BEGIN;
-DROP TABLE IF EXISTS bi_pub_assertion;
+DROP TABLE IF EXISTS bi_pub_organism_assertion;
 DROP TABLE IF EXISTS bi_pub_organism_interaction;
 DROP TABLE IF EXISTS bi_pub_event;
 DROP TABLE IF EXISTS bi_pub_organism;
 DROP TABLE IF EXISTS bi_pub_material_entity;
 
--- Create the bi_pub_assertion table with the first assertion_type
+-- Create the bi_pub_organism_assertion table with the first assertion_type
 SELECT 
 GEN_RANDOM_UUID() AS assertion_id,
-organism_id AS assertion_target_id,
-'ORGANISM' AS assertion_target_type,
+NULL as parent_assertion_id,
+organism_id,
 'sex' AS assertion_type,
 sex AS assertion_value,
 NULL AS assertion_value_numeric,
@@ -23,19 +23,19 @@ NULL AS assertion_protocol,
 NULL AS assertion_protocol_id,
 NULL AS assertion_citation,
 NULL AS assertion_remarks
-INTO TABLE bi_pub_assertion
+INTO TABLE bi_pub_organism_assertion
 FROM
 occurrence,
 event
 WHERE
 occurrence_id=event_id;
 
--- Append to the bi_pub_assertion table with the next assertion_type
-INSERT INTO bi_pub_assertion (assertion_id, assertion_target_id, assertion_target_type, assertion_type, assertion_value, assertion_value_numeric, assertion_unit, assertion_made_date, assertion_effective_date, assertion_by_agent_name, assertion_by_agent_id, assertion_protocol, assertion_protocol_id, assertion_citation, assertion_remarks)
+-- Append to the bi_pub_organism_assertion table with the next assertion_type
+INSERT INTO bi_pub_organism_assertion (assertion_id, parent_assertion_id,organism_id, assertion_type, assertion_value, assertion_value_numeric, assertion_unit, assertion_made_date, assertion_effective_date, assertion_by_agent_name, assertion_by_agent_id, assertion_protocol, assertion_protocol_id, assertion_citation, assertion_remarks)
 SELECT 
 GEN_RANDOM_UUID() AS assertion_id,
-organism_id AS assertion_target_id,
-'ORGANISM' AS assertion_target_type,
+NULL as parent_assertion_id,
+organism_id,
 'organismQuantity' AS assertion_type,
 NULL AS assertion_value,
 organism_quantity AS assertion_value_numeric,
@@ -58,9 +58,9 @@ occurrence_id=event_id;
 COPY
 (
 SELECT *
-FROM bi_pub_assertion
+FROM bi_pub_organism_assertion
 )
-TO '/Users/johnwieczorek/Projects/model-interactions/conabio-bees/publishing-model-data/assertion.csv' 
+TO '/Users/johnwieczorek/Projects/model-interactions/conabio-bees/publishing-model-data/organism_assertion.csv' 
 WITH CSV 
 DELIMITER ',' 
 HEADER;
@@ -215,9 +215,10 @@ HEADER;
 -- Create the bi_pub_material_entity table
 SELECT
 material_entity_id,
-NULL material_entity_source_id,
-NULL material_entity_source_type,
 material_entity_type,
+NULL source_material_entity_id,
+NULL source_digital_media_id,
+occurrence_id AS gathering_event_id,
 preparations,
 disposition,
 institution_code,
@@ -227,15 +228,15 @@ collection_id,
 owner_institution_code,
 catalog_number,
 record_number,
-recorded_by AS collected_by,
-recorded_by_id AS collected_by_id,
+material_entity.recorded_by AS collected_by,
+material_entity.recorded_by_id AS collected_by_id,
 associated_references,
 associated_sequences,
 other_catalog_numbers,
-NULL AS material_citation,
 NULL AS material_entity_remarks
 INTO TABLE bi_pub_material_entity
-FROM material_entity;
+FROM material_entity, occurrence
+WHERE material_entity_id=organism_id;
 
 -- Export the bi_pub_material_entity table
 COPY
